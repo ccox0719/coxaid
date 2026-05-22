@@ -1,4 +1,5 @@
-git push -u origin maingit status
+
+
 git add .
 git commit -m "your message"
 git push origin main
