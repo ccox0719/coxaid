@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor and OS metadata
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
