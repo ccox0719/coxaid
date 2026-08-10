@@ -1,0 +1,169 @@
+:root {
+  --student-ink: #15324a;
+  --student-blue: #1677a8;
+  --student-blue-soft: #e7f6fc;
+  --student-border: rgba(21, 50, 74, 0.14);
+}
+
+.mobileBottomNav > button[data-student-destination] {
+  min-width: 0;
+}
+
+.mobileBottomNav > button.studentActive,
+.mobileBottomNav > button[aria-current="page"] {
+  color: var(--student-blue);
+  background: var(--student-blue-soft);
+}
+
+.mobileBottomNav > button[aria-current="page"]::before {
+  content: "";
+  position: absolute;
+  top: 3px;
+  width: 26px;
+  height: 3px;
+  border-radius: 999px;
+  background: currentColor;
+}
+
+.studentApplicationsLink {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.studentQuickLinks {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.65rem;
+  margin: -0.1rem 0 1rem;
+}
+
+.studentQuickLinks button {
+  min-height: 44px;
+  border: 1px solid var(--student-border);
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.78);
+  color: var(--student-ink);
+  font-weight: 750;
+}
+
+.studentTaskFacts,
+.studentScholarshipFacts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.55rem 0;
+}
+
+.studentTaskFacts span,
+.studentScholarshipFacts span,
+.studentSectionKeys span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 0.25rem 0.6rem;
+  border: 1px solid var(--student-border);
+  border-radius: 999px;
+  background: #f7fbfd;
+  color: #426078;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.studentTaskFacts .studentTime,
+.studentScholarshipFacts span:first-child {
+  background: var(--student-blue-soft);
+  color: #0b648e;
+}
+
+.studentTaskDescription {
+  margin: 0.3rem 0 0 !important;
+  color: #526a7d;
+  font-size: 0.88rem;
+  line-height: 1.45;
+  text-decoration: none !important;
+}
+
+.studentScholarshipIntro {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 0.8rem 0 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--student-border);
+  border-radius: 18px;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.94), rgba(231, 246, 252, 0.92));
+}
+
+.studentScholarshipIntro h2,
+.studentScholarshipIntro p {
+  margin: 0.2rem 0 0;
+}
+
+.studentScholarshipIntro p,
+.studentAnswerIntro {
+  color: #526a7d;
+  line-height: 1.5;
+}
+
+.studentSectionKeys {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 0.4rem;
+}
+
+.studentAnswerIntro {
+  margin: -0.35rem 0 1rem;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+summary:focus-visible {
+  outline: 3px solid rgba(22, 119, 168, 0.38) !important;
+  outline-offset: 2px;
+}
+
+@media (max-width: 720px) {
+  .studentQuickLinks {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .studentScholarshipIntro {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .studentSectionKeys {
+    justify-content: flex-start;
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 0.2rem;
+  }
+
+  .studentSectionKeys span {
+    white-space: nowrap;
+  }
+
+  .taskWorkflowActions button,
+  .taskWorkflowActions a,
+  .cardActionsBar button,
+  .cardActionsBar a {
+    min-height: 42px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
