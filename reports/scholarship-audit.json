@@ -1,0 +1,2250 @@
+{
+  "generatedAt": "2026-08-11T00:04:09.936Z",
+  "database": "https://svaozzitkajgqzacldur.supabase.co",
+  "recordCount": 187,
+  "statusCounts": {
+    "needs_verification": 170,
+    "inactive": 4,
+    "active": 13
+  },
+  "missingFields": {
+    "name": 0,
+    "link": 0,
+    "award": 10,
+    "deadline": 172,
+    "deadline_raw": 4,
+    "grade_requirement": 185,
+    "eligible_grade_levels": 186,
+    "source_url": 170,
+    "last_verified_at": 170,
+    "application_cycle": 170,
+    "estimated_completion_minutes": 187
+  },
+  "exactNameDuplicates": [
+    {
+      "key": "burger king scholars program",
+      "count": 2,
+      "records": [
+        {
+          "id": "3a03d9dc-02d0-4f47-ad85-f0a596a83b3b",
+          "name": "Burger King Scholars Program",
+          "link": "https://www.burgerkingscholars.com/"
+        },
+        {
+          "id": "02af5a99-fe24-4e91-b314-bec993c011dc",
+          "name": "Burger King Scholars Program",
+          "link": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars"
+        }
+      ]
+    },
+    {
+      "key": "coca cola scholars program scholarship",
+      "count": 2,
+      "records": [
+        {
+          "id": "970977c2-3bbe-4ba9-97f4-f45d4d53578e",
+          "name": "Coca-Cola Scholars Program Scholarship",
+          "link": "https://www.coca-colascholarsfoundation.org/apply/"
+        },
+        {
+          "id": "da72ab3c-a79c-4b12-bd19-1818e907c24a",
+          "name": "Coca-Cola Scholars Program Scholarship",
+          "link": "https://www.coca-colascholarsfoundation.org/about/faq"
+        }
+      ]
+    },
+    {
+      "key": "fisher house scholarships for military children",
+      "count": 2,
+      "records": [
+        {
+          "id": "207ddf0d-ac31-43a6-a610-ba6bbeacbfa2",
+          "name": "Fisher House Scholarships for Military Children",
+          "link": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/"
+        },
+        {
+          "id": "78b3a94e-4a28-4743-bd28-de33d7665244",
+          "name": "Fisher House Scholarships for Military Children",
+          "link": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/"
+        }
+      ]
+    },
+    {
+      "key": "hagan scholarship",
+      "count": 2,
+      "records": [
+        {
+          "id": "bc7fd63b-d418-4843-8e25-039c3fae0f0d",
+          "name": "Hagan Scholarship",
+          "link": "https://haganscholarships.org/application/"
+        },
+        {
+          "id": "dd3508ee-06b2-4ef9-80c4-b15e6c116d20",
+          "name": "Hagan Scholarship",
+          "link": "https://haganscholarships.org/"
+        }
+      ]
+    },
+    {
+      "key": "horatio alger national and state scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "02c1c366-9430-48d0-80fb-87123015474a",
+          "name": "Horatio Alger National and State Scholarships",
+          "link": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/"
+        },
+        {
+          "id": "995b9e48-1ad7-43d5-9287-334a21f7feb4",
+          "name": "Horatio Alger National and State Scholarships",
+          "link": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "jack kent cooke foundation college scholarship program",
+      "count": 2,
+      "records": [
+        {
+          "id": "dc53a209-8d48-4a01-ad4d-e58b803e3232",
+          "name": "Jack Kent Cooke Foundation College Scholarship Program",
+          "link": "https://www.jkcf.org/our-scholarships/college-scholarship-program/"
+        },
+        {
+          "id": "abe9c885-3768-47bb-96bb-9419725cd4c0",
+          "name": "Jack Kent Cooke Foundation College Scholarship Program",
+          "link": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/"
+        }
+      ]
+    },
+    {
+      "key": "taco bell foundation live m s scholarship",
+      "count": 2,
+      "records": [
+        {
+          "id": "1f33506e-2c55-49fb-9bc5-ec265c876cea",
+          "name": "Taco Bell Foundation Live Más Scholarship",
+          "link": "https://www.tacobellfoundation.org/live-mas-scholarship2/"
+        },
+        {
+          "id": "2ade63ff-ce91-463a-86ce-998895b39654",
+          "name": "Taco Bell Foundation Live Más Scholarship",
+          "link": "https://www.tacobellfoundation.org/live-mas-scholarship/"
+        }
+      ]
+    }
+  ],
+  "duplicateLinks": [
+    {
+      "key": "fra.org/fra/web/web/content/fra_scholarships.aspx",
+      "count": 9,
+      "records": [
+        {
+          "id": "55005d26-4c6e-4d44-9a2e-410edb24ada1",
+          "name": "Fleet Reserve Association Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "7ce00871-0b60-4d84-826d-6ce9d4f788f8",
+          "name": "Glenn F. Glezen Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "465234d5-6724-482d-8ec1-263a3bb488b7",
+          "name": "Individual Contributions Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "c6f4b8cb-4b2a-4328-bafe-a3caf682e1eb",
+          "name": "Joseph R. Baranski Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "d0db252f-d0e7-451a-ac69-640109140521",
+          "name": "Mercer Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "7014a145-4d66-4716-8696-353ddc5e51c3",
+          "name": "Robert W. Nolan Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "671dcd76-b80d-4b7c-ab39-fc51e257fa7d",
+          "name": "Robert. M. Treadwell Annual Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "e774a629-162c-4191-9762-4b9b37fdc926",
+          "name": "The Donald Bruce Pringle Family Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        },
+        {
+          "id": "5f262095-f7ea-40ba-bb91-875f8f60c700",
+          "name": "Tom and Karen Snee Scholarship",
+          "link": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx"
+        }
+      ]
+    },
+    {
+      "key": "admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "count": 4,
+      "records": [
+        {
+          "id": "80d5018a-f153-478c-b8c2-145af2fdf2a2",
+          "name": "Puckett Scholars Program",
+          "link": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships"
+        },
+        {
+          "id": "02e1ba5d-a53c-46c3-9746-80b84f073925",
+          "name": "Results Foundation Scholarship",
+          "link": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships"
+        },
+        {
+          "id": "da6f1d46-4cfe-4982-90de-ef2216854f12",
+          "name": "University of Minnesota Alumni Association Freshman Leadership Incentive Scholarship",
+          "link": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships"
+        },
+        {
+          "id": "a8427189-ec07-4ebe-b7e1-eab8dfe6da62",
+          "name": "University of Minnesota Presidential Scholarship",
+          "link": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships"
+        }
+      ]
+    },
+    {
+      "key": "cedarville.edu/financialaid",
+      "count": 4,
+      "records": [
+        {
+          "id": "ba78bd53-88b8-4cd4-b564-870d7bb404b4",
+          "name": "Cedarville University Academic Program Scholarships",
+          "link": "https://www.cedarville.edu/financialaid/"
+        },
+        {
+          "id": "114a24a9-55bf-4e87-939c-f1a579554415",
+          "name": "Cedarville University Church Matching Scholarship",
+          "link": "https://www.cedarville.edu/financialaid/"
+        },
+        {
+          "id": "1590bb59-6bb0-4042-b59e-f3f20007c511",
+          "name": "Cedarville University President's Ministry Impact Scholarship",
+          "link": "https://www.cedarville.edu/financialaid/"
+        },
+        {
+          "id": "4efb713e-eb6d-4065-96c7-907f63951322",
+          "name": "Cedarville University President's Scholar Award",
+          "link": "https://www.cedarville.edu/financialaid/"
+        }
+      ]
+    },
+    {
+      "key": "awfdn.org/scholarships/general-information",
+      "count": 3,
+      "records": [
+        {
+          "id": "cb313e78-5b69-49dd-bdb0-c6fd4d989cda",
+          "name": "AWF Legacy Scholarship Program",
+          "link": "https://www.awfdn.org/scholarships/general-information/"
+        },
+        {
+          "id": "70277409-1216-4922-a791-8fa9f725b21e",
+          "name": "AWF M.M. Costello Scholarship",
+          "link": "https://www.awfdn.org/scholarships/general-information/"
+        },
+        {
+          "id": "d0be56a9-d8a2-4712-becc-500d9ae35dad",
+          "name": "AWF Professional Contract Services, Inc (PCSI) Scholarship for Disabled Veterans",
+          "link": "https://www.awfdn.org/scholarships/general-information/"
+        }
+      ]
+    },
+    {
+      "key": "mnmasoniccharities.org/programs/scholarships",
+      "count": 3,
+      "records": [
+        {
+          "id": "d6b24424-4d6f-4882-9250-70569da9ce0c",
+          "name": "Minnesota Masonic Charities Heritage Scholarship",
+          "link": "https://mnmasoniccharities.org/programs/scholarships/"
+        },
+        {
+          "id": "c24688a0-2185-411e-a7f4-6b9713e3d72c",
+          "name": "Minnesota Masonic Charities Selfless Scholar Scholarship",
+          "link": "https://mnmasoniccharities.org/programs/scholarships/"
+        },
+        {
+          "id": "2f037643-f432-4b67-a103-554767c456b7",
+          "name": "Minnesota Masonic Charities Signature Scholarship",
+          "link": "https://mnmasoniccharities.org/programs/scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "ankeny.org/scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "926fe4f7-fe32-4199-88f3-84bd8b618a62",
+          "name": "Ankeny Area Chamber of Commerce High School Senior Scholarship",
+          "link": "https://www.ankeny.org/scholarships/"
+        },
+        {
+          "id": "60084d66-e08f-4ad9-83dc-9cbe86e399c6",
+          "name": "Ankeny Area Chamber Renee Murphy Legacy Scholarship",
+          "link": "https://www.ankeny.org/scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "creeknationfoundation.org/scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "f6419bc7-dfbb-4c8c-976b-4e4f62259fa1",
+          "name": "MCNF Guardians of Sovereignty (Female) scholarship",
+          "link": "https://creeknationfoundation.org/scholarships/"
+        },
+        {
+          "id": "a785c9ba-a31d-4d27-8e65-fcd9c431851c",
+          "name": "MCNF Guardians of Sovereignty (male) scholarship",
+          "link": "https://creeknationfoundation.org/scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children",
+      "count": 2,
+      "records": [
+        {
+          "id": "207ddf0d-ac31-43a6-a610-ba6bbeacbfa2",
+          "name": "Fisher House Scholarships for Military Children",
+          "link": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/"
+        },
+        {
+          "id": "78b3a94e-4a28-4743-bd28-de33d7665244",
+          "name": "Fisher House Scholarships for Military Children",
+          "link": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/"
+        }
+      ]
+    },
+    {
+      "key": "macphail.org/financial-aid-scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "3a130cf2-a27d-4aee-aa6c-4371465b0f7b",
+          "name": "MacPhail Financial Aid & Scholarships",
+          "link": "https://www.macphail.org/financial-aid-scholarships/"
+        },
+        {
+          "id": "619e087c-2d6e-427b-b001-d59fde6e7126",
+          "name": "MacPhail Instrument Lessons Scholarships",
+          "link": "https://www.macphail.org/financial-aid-scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "myhighered.mn.gov/paying-college/grants",
+      "count": 2,
+      "records": [
+        {
+          "id": "c0450f8e-f202-4ee2-a2b6-21dfbb32908e",
+          "name": "Minnesota Child Care Grant",
+          "link": "https://www.myhighered.mn.gov/paying-college/grants"
+        },
+        {
+          "id": "26a1a768-0731-4991-82c9-8373a33d9157",
+          "name": "Minnesota Fostering Independence Higher Education Grant",
+          "link": "https://www.myhighered.mn.gov/paying-college/grants"
+        }
+      ]
+    },
+    {
+      "key": "myhighered.mn.gov/paying-college/scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "0a90f77a-2ce1-4af6-b3de-1d22b128dfd8",
+          "name": "Minnesota Indian Scholarship Program",
+          "link": "https://www.myhighered.mn.gov/paying-college/scholarships"
+        },
+        {
+          "id": "b02278c6-14e3-4120-8758-4fd81402e5f3",
+          "name": "Minnesota Paramedic Scholarship",
+          "link": "https://www.myhighered.mn.gov/paying-college/scholarships"
+        }
+      ]
+    },
+    {
+      "key": "scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "02c1c366-9430-48d0-80fb-87123015474a",
+          "name": "Horatio Alger National and State Scholarships",
+          "link": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/"
+        },
+        {
+          "id": "995b9e48-1ad7-43d5-9287-334a21f7feb4",
+          "name": "Horatio Alger National and State Scholarships",
+          "link": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/"
+        }
+      ]
+    },
+    {
+      "key": "vfw.org/community/youth-and-education/youth-scholarships",
+      "count": 2,
+      "records": [
+        {
+          "id": "c01d6ca8-813e-48bd-9e30-e93f66840c6e",
+          "name": "VFW Voice of Democracy Audio-Essay Contest",
+          "link": "https://www.vfw.org/community/youth-and-education/youth-scholarships"
+        },
+        {
+          "id": "39419284-dbe6-49b0-bc8d-c7714d380995",
+          "name": "VFW Voice of Democracy Audio-Essay Contest - Minnesota",
+          "link": "https://www.vfw.org/community/youth-and-education/youth-scholarships"
+        }
+      ]
+    }
+  ],
+  "pastStructuredDeadlines": [
+    {
+      "id": "19e9fc8b-a688-4f50-a21b-5611ceddc784",
+      "name": "Asian Fair Scholarship",
+      "deadline": "2026-05-08",
+      "deadline_raw": "May 8, 2026",
+      "scholarship_status": "inactive"
+    },
+    {
+      "id": "fe830d55-b3f7-40f7-81a8-9a350f9f681b",
+      "name": "BenGlassLaw Referee and Umpire Leadership Scholarship",
+      "deadline": "2026-06-15",
+      "deadline_raw": "June 15, 2026",
+      "scholarship_status": "inactive"
+    },
+    {
+      "id": "a9b3c75e-7fbe-4728-97b4-66df3f7a2b41",
+      "name": "Carson Scholars Fund",
+      "deadline": "2026-01-11",
+      "deadline_raw": "2026 cycle closed January 11, 2026; school nomination closed December 17, 2025",
+      "scholarship_status": "inactive"
+    },
+    {
+      "id": "77353d87-c40a-4be7-9163-b292386dde4c",
+      "name": "NAVAL HELICOPTER ASSOCIATION SCHOLARSHIP FUND (NHASF)",
+      "deadline": "2026-01-31",
+      "deadline_raw": "2025-26 cycle closed January 31, 2026; next cycle dates not yet posted",
+      "scholarship_status": "inactive"
+    }
+  ],
+  "staleYearReferences": [
+    {
+      "id": "926fe4f7-fe32-4199-88f3-84bd8b618a62",
+      "name": "Ankeny Area Chamber of Commerce High School Senior Scholarship",
+      "deadline_raw": "Applications listed February 1-April 21 for 2025 cycle; verify current cycle",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "60084d66-e08f-4ad9-83dc-9cbe86e399c6",
+      "name": "Ankeny Area Chamber Renee Murphy Legacy Scholarship",
+      "deadline_raw": "Applications listed February 1-April 21 for 2025 cycle; verify current cycle",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "fff313eb-84c5-485d-9366-00186e4d904d",
+      "name": "AUSA Rock Island Arsenal Chapter Scholarship",
+      "deadline_raw": "Old official PDF shows March 15, 2019; verify current chapter deadline before using",
+      "years": [
+        2019
+      ]
+    },
+    {
+      "id": "02af5a99-fe24-4e91-b314-bec993c011dc",
+      "name": "Burger King Scholars Program",
+      "deadline_raw": "Application opens October 15, 2025 and closes at 30,000 applications or December 15, 2025 for 2026-27 cycle",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "a9b3c75e-7fbe-4728-97b4-66df3f7a2b41",
+      "name": "Carson Scholars Fund",
+      "deadline_raw": "2026 cycle closed January 11, 2026; school nomination closed December 17, 2025",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "da72ab3c-a79c-4b12-bd19-1818e907c24a",
+      "name": "Coca-Cola Scholars Program Scholarship",
+      "deadline_raw": "Application typically opens August 1; 2026 deadline was September 30, 2025",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "f979a54b-7ae9-4264-b192-55ac92b6537d",
+      "name": "Concordia Promise",
+      "deadline_raw": "Dec 1, 2025 (2026-27 admission cycle); annual",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "628d3753-4a87-4064-8520-133b00c83ef2",
+      "name": "Conservation Districts of Iowa Scholarship",
+      "deadline_raw": "2025 cycle was used as the page reference; verify the next application window when posted",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "d4e8de52-bef8-4831-8e95-485cf8b35c71",
+      "name": "DECA Scholarships",
+      "deadline_raw": "2025-26 applications were due January 9, 2026; verify next member cycle",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "236f4af1-c9c5-4dae-b59d-9eaf29aedddd",
+      "name": "Future Ready Iowa Last-Dollar Scholarship",
+      "deadline_raw": "FAFSA deadline June 30, 2026 for 2025-26 school year; verify 2026-27 deadline",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "013782e5-b7b8-4283-9128-6d5b5284f784",
+      "name": "Iowa Tuition Grant",
+      "deadline_raw": "FAFSA deadline July 1, 2025 for the 2025-26 cycle; verify next FAFSA cycle date",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "8cf92ee2-1169-476b-a3b8-398e1326231d",
+      "name": "ISL Education Lending Scholarship",
+      "deadline_raw": "Spring 2026 registration open through April 3, 2026; fall period previously closed Dec. 5, 2025",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "77353d87-c40a-4be7-9163-b292386dde4c",
+      "name": "NAVAL HELICOPTER ASSOCIATION SCHOLARSHIP FUND (NHASF)",
+      "deadline_raw": "2025-26 cycle closed January 31, 2026; next cycle dates not yet posted",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "46b98721-2596-4dc6-9cd1-7cf579f2f161",
+      "name": "Simpson College All-in for Iowa",
+      "deadline_raw": "Priority deadline November 1, 2025; FAFSA due July 1, 2026 for Fall 2026 entry",
+      "years": [
+        2025
+      ]
+    },
+    {
+      "id": "56bd2355-2ce7-45e7-a297-e0c61bbff4e9",
+      "name": "Wallin Education Partners 4-Year Program",
+      "deadline_raw": "2026 cycle listed November 1, 2025-February 2, 2026; verify next cycle",
+      "years": [
+        2025
+      ]
+    }
+  ],
+  "linkCounts": {
+    "reachable": 177,
+    "network_error": 2,
+    "broken": 5,
+    "restricted": 2,
+    "timeout": 1
+  },
+  "links": [
+    {
+      "id": "9a1f5486-d100-435f-9fb7-43ddf2c5a12f",
+      "name": "Achieve Twin Cities MPS College Scholarships",
+      "url": "https://www.achievetwincities.org/mps-funds-awards",
+      "status": 200,
+      "finalUrl": "https://www.achievetwincities.org/mps-funds-awards",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "36ffb929-f2cb-417e-9e07-399a9bcfb08a",
+      "name": "ACSI Christian College Scholarship Pathways",
+      "url": "https://www.acsi.org/academic-programs/acsi-elevate--higher-education-program/acsi-christian-college-scholarships-and-programs-for-students-and-educators",
+      "status": 200,
+      "finalUrl": "https://www.acsi.org/academic-programs/acsi-elevate--higher-education-program/acsi-christian-college-scholarships-and-programs-for-students-and-educators",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "64fb4e65-cf33-40bf-a02f-214cf3a1f8ed",
+      "name": "ACSI Distinguished Christian High School Student Award",
+      "url": "https://www.acsi.org/DCHSS",
+      "status": 200,
+      "finalUrl": "https://www.acsi.org/DCHSS",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dd7746aa-34fb-48f2-b0ef-4a0079cbb3b9",
+      "name": "AFSCME Council 5 Scholarships",
+      "url": "https://afscmemn.org/",
+      "status": 200,
+      "finalUrl": "https://afscmemn.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "7d19f59d-ad13-482a-91a6-d11b0857ca08",
+      "name": "ALA Non-Traditional Student Scholarship",
+      "url": "https://img1.wsimg.com/blobby/go/2b6c8e6e-1ea4-4fde-ac0f-7e50056557cb/downloads/Non-Traditional.pdf?ver=1721344937554",
+      "status": 204,
+      "finalUrl": "https://img1.wsimg.com/blobby/go/2b6c8e6e-1ea4-4fde-ac0f-7e50056557cb/downloads/Non-Traditional.pdf?ver=1721344937554",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "3933dcb3-8b74-469f-b9a3-061248464866",
+      "name": "All Iowa Opportunity Scholarship",
+      "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/aios",
+      "status": 200,
+      "finalUrl": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/aios",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "e4914beb-0d7e-474a-8ae3-130e1739ce23",
+      "name": "American Legion Auxiliary Department of Iowa Children of Veterans Merit Award",
+      "url": "http://www.iowaala.org",
+      "status": 200,
+      "finalUrl": "https://iowaala.org/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "f9378dc0-d9b7-46d2-973a-89b9dab4120a",
+      "name": "AMERICAN LEGION DEPARTMENT OF MISSOURI Charles L. Bacon Memorial Scholarship",
+      "url": "https://www.missourilegion.org/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.missourilegion.org/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a6a48607-8ab6-4adb-9aa1-c13310bd9b19",
+      "name": "American Legion of Iowa Foundation Scholarship",
+      "url": "https://www.ialegion.org/iafoundation/",
+      "status": 200,
+      "finalUrl": "https://ialegion.org/iafoundation/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "57e16da0-6272-4b8e-9f1e-6d2ac28ce809",
+      "name": "American Legion of Iowa High School Oratorical Scholarship Program",
+      "url": "https://ialegion.org/oratorical/",
+      "status": 200,
+      "finalUrl": "https://ialegion.org/oratorical/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "daf949c3-4d78-4055-be56-0e680fe3c748",
+      "name": "American Legion Oratorical Contest - Minnesota",
+      "url": "https://www.mnlegion.org/oratorical-contest",
+      "status": 200,
+      "finalUrl": "https://www.mnlegion.org/department-annual-oratorical-contest",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "7a2b3bff-c016-4c61-9cba-92c3c1d7eda4",
+      "name": "AMVETS Children/Grandchildren Scholarship",
+      "url": "https://www.amvets.org/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.amvets.org/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "926fe4f7-fe32-4199-88f3-84bd8b618a62",
+      "name": "Ankeny Area Chamber of Commerce High School Senior Scholarship",
+      "url": "https://www.ankeny.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://www.ankeny.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "60084d66-e08f-4ad9-83dc-9cbe86e399c6",
+      "name": "Ankeny Area Chamber Renee Murphy Legacy Scholarship",
+      "url": "https://www.ankeny.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://www.ankeny.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "798b970a-c13c-4c6a-ab63-0b9392a3444f",
+      "name": "Ankeny Dollars for Scholars",
+      "url": "https://ankeny.dollarsforscholars.org/",
+      "status": 200,
+      "finalUrl": "https://ankeny.dollarsforscholars.org/index.php?section=chapterWebsite&action=main&fwID=1813",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "07acadb5-ebc0-4393-ab00-f03abe4368cd",
+      "name": "Around the Corner from College Scholarship",
+      "url": "https://accessscholarships.com/around-the-corner-from-college-scholarship/",
+      "status": 200,
+      "finalUrl": "https://accessscholarships.com/around-the-corner-from-college-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "19e9fc8b-a688-4f50-a21b-5611ceddc784",
+      "name": "Asian Fair Scholarship",
+      "url": "https://tcasianfair.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://tcasianfair.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "792054e6-2915-477f-8dec-a3ba3478a4ac",
+      "name": "ASME High School Scholarships",
+      "url": "https://www.asme.org/ASME-Programs/Students-and-Faculty/scholarships/Available-High-School-Scholarships",
+      "status": 200,
+      "finalUrl": "https://www.asme.org/ASME-Programs/Students-and-Faculty/scholarships/Available-High-School-Scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "fff313eb-84c5-485d-9366-00186e4d904d",
+      "name": "AUSA Rock Island Arsenal Chapter Scholarship",
+      "url": "https://www.ausa.org/sites/default/files/AUSA-RIA_Scholarship-Application.pdf",
+      "status": 200,
+      "finalUrl": "https://www.ausa.org/sites/default/files/AUSA-RIA_Scholarship-Application.pdf",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "850d5985-c359-4eb3-bc3d-41addb88dc7f",
+      "name": "AWF “Six Triple Eight” Legacy Scholarship",
+      "url": "https://www.awfdn.org/scholarships/six-triple-eight/",
+      "status": 200,
+      "finalUrl": "https://www.awfdn.org/scholarships/six-triple-eight/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "cb313e78-5b69-49dd-bdb0-c6fd4d989cda",
+      "name": "AWF Legacy Scholarship Program",
+      "url": "https://www.awfdn.org/scholarships/general-information/",
+      "status": 200,
+      "finalUrl": "https://www.awfdn.org/scholarships/general-information/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "70277409-1216-4922-a791-8fa9f725b21e",
+      "name": "AWF M.M. Costello Scholarship",
+      "url": "https://www.awfdn.org/scholarships/general-information/",
+      "status": 200,
+      "finalUrl": "https://www.awfdn.org/scholarships/general-information/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d0be56a9-d8a2-4712-becc-500d9ae35dad",
+      "name": "AWF Professional Contract Services, Inc (PCSI) Scholarship for Disabled Veterans",
+      "url": "https://www.awfdn.org/scholarships/general-information/",
+      "status": 200,
+      "finalUrl": "https://www.awfdn.org/scholarships/general-information/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ba9e28e8-d4c5-4f8f-a2c0-84177a2e96f9",
+      "name": "AYSO Region 1103 College Scholarship - Ruth Grafft AYSO Scholarship",
+      "url": "https://www.ayso1103.org/Default.aspx?tabid=862772",
+      "status": 200,
+      "finalUrl": "https://www.ayso1103.org/Default.aspx?tabid=862772",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "56233a8b-0845-4b7f-8be3-7edc7964868b",
+      "name": "BBB Student of Integrity Scholarships - Iowa / Midwest Plains",
+      "url": "https://www.bbb.org/local/0664/ia-students-of-integrity",
+      "status": 200,
+      "finalUrl": "https://www.bbb.org/local/0664/ia-students-of-integrity",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "fe830d55-b3f7-40f7-81a8-9a350f9f681b",
+      "name": "BenGlassLaw Referee and Umpire Leadership Scholarship",
+      "url": "https://www.benglasslaw.com/scholarship/",
+      "status": 200,
+      "finalUrl": "https://www.benglasslaw.com/scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "5232c5d0-ac50-48fe-b6fa-bae05f8a613b",
+      "name": "BigFuture Scholarships",
+      "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships",
+      "status": 200,
+      "finalUrl": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "4c5964aa-c48d-4e39-ba5e-97cf00be6211",
+      "name": "BigFuture Scholarships (College Board)",
+      "url": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships-2027",
+      "status": 200,
+      "finalUrl": "https://bigfuture.collegeboard.org/pay-for-college/bigfuture-scholarships-2027",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "97ada341-5c66-442b-b236-3b5839a09c01",
+      "name": "Bright Scholars of Iowa Award",
+      "url": "https://www.brightiowa.org/scholarships/bright-scholars-of-iowa",
+      "status": 200,
+      "finalUrl": "https://www.brightiowa.org/scholarships/bright-scholars-of-iowa",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c9316c1b-4642-4b1e-8399-9ee522ac0cce",
+      "name": "Buena Vista University Iowa Access Grant",
+      "url": "https://www.bvu.edu/admissions/financial-assistance/scholarships/first-year",
+      "status": 200,
+      "finalUrl": "https://www.bvu.edu/admissions/financial-assistance/scholarships/first-year",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "3a03d9dc-02d0-4f47-ad85-f0a596a83b3b",
+      "name": "Burger King Scholars Program",
+      "url": "https://www.burgerkingscholars.com/",
+      "status": 200,
+      "finalUrl": "https://www.burgerkingscholars.com/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "02af5a99-fe24-4e91-b314-bec993c011dc",
+      "name": "Burger King Scholars Program",
+      "url": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "status": 200,
+      "finalUrl": "https://www.burgerkingfoundation.org/programs/burger-king-sm-scholars",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dd282c6a-f864-4704-a453-90515b3dfed2",
+      "name": "CA College Tuition Fee Waiver for Veteran Dependents",
+      "url": "https://www.calvet.ca.gov/VetServices/Pages/College-Fee-Waiver.aspx",
+      "category": "network_error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "b78745b9-15a2-43e1-9a9b-cf810f313c40",
+      "name": "Cameron Impact Scholarship",
+      "url": "https://www.bryancameroneducationfoundation.org/scholarship",
+      "status": 200,
+      "finalUrl": "https://www.bryancameroneducationfoundation.org/scholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a9b3c75e-7fbe-4728-97b4-66df3f7a2b41",
+      "name": "Carson Scholars Fund",
+      "url": "https://carsonscholars.org/nomination-rules-and-policies/",
+      "status": 404,
+      "finalUrl": "https://carsonscholars.org/nomination-rules-and-policies/",
+      "redirected": false,
+      "category": "broken"
+    },
+    {
+      "id": "ba78bd53-88b8-4cd4-b564-870d7bb404b4",
+      "name": "Cedarville University Academic Program Scholarships",
+      "url": "https://www.cedarville.edu/financialaid/",
+      "status": 200,
+      "finalUrl": "https://www.cedarville.edu/offices/financial-aid/undergraduate/student-aid-2026-27/info/2026/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "114a24a9-55bf-4e87-939c-f1a579554415",
+      "name": "Cedarville University Church Matching Scholarship",
+      "url": "https://www.cedarville.edu/financialaid/",
+      "status": 200,
+      "finalUrl": "https://www.cedarville.edu/offices/financial-aid/undergraduate/student-aid-2026-27/info/2026/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "425b29ef-bd0c-450f-bf53-0c07672aaa56",
+      "name": "Cedarville University Need-Based Scholarships",
+      "url": "https://www.cedarville.edu/offices/financial-aid/undergraduate",
+      "status": 200,
+      "finalUrl": "https://www.cedarville.edu/offices/financial-aid/undergraduate",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1590bb59-6bb0-4042-b59e-f3f20007c511",
+      "name": "Cedarville University President's Ministry Impact Scholarship",
+      "url": "https://www.cedarville.edu/financialaid/",
+      "status": 200,
+      "finalUrl": "https://www.cedarville.edu/offices/financial-aid/undergraduate/student-aid-2026-27/info/2026/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "4efb713e-eb6d-4065-96c7-907f63951322",
+      "name": "Cedarville University President's Scholar Award",
+      "url": "https://www.cedarville.edu/financialaid/",
+      "status": 200,
+      "finalUrl": "https://www.cedarville.edu/offices/financial-aid/undergraduate/student-aid-2026-27/info/2026/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "4764821e-cfed-4e14-8260-93ebb8e4ed9a",
+      "name": "Center for Arab American Philanthropy Academic Scholarships",
+      "url": "https://www.centeraap.org/grants/academic-scholarships/",
+      "status": 200,
+      "finalUrl": "https://www.centeraap.org/grants/academic-scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "460efd55-7955-46c7-b2d5-f86edc0eb976",
+      "name": "Christian Connector / Christian College Scholarship Drawing",
+      "url": "https://www.nshss.org/scholarships/s/christian-connector/",
+      "status": 200,
+      "finalUrl": "https://www.nshss.org/scholarships/s/christian-connector/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "970977c2-3bbe-4ba9-97f4-f45d4d53578e",
+      "name": "Coca-Cola Scholars Program Scholarship",
+      "url": "https://www.coca-colascholarsfoundation.org/apply/",
+      "status": 200,
+      "finalUrl": "https://www.coca-colascholarsfoundation.org/apply/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "da72ab3c-a79c-4b12-bd19-1818e907c24a",
+      "name": "Coca-Cola Scholars Program Scholarship",
+      "url": "https://www.coca-colascholarsfoundation.org/about/faq",
+      "status": 200,
+      "finalUrl": "https://www.coca-colascholarsfoundation.org/about/faq",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "526d3894-baae-42d6-80c3-21ade025050b",
+      "name": "Coe College Williston Jones Full-Tuition Scholarships",
+      "url": "https://www.coe.edu/admission/first-year-students/scholarships-awards",
+      "status": 200,
+      "finalUrl": "https://www.coe.edu/admission/first-year-students/scholarships-awards",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "f979a54b-7ae9-4264-b192-55ac92b6537d",
+      "name": "Concordia Promise",
+      "url": "https://www.concordiacollege.edu/promise",
+      "status": 200,
+      "finalUrl": "https://www.concordiacollege.edu/admission/the-concordia-promise/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "628d3753-4a87-4064-8520-133b00c83ef2",
+      "name": "Conservation Districts of Iowa Scholarship",
+      "url": "https://www.cdiowa.org/get-involved/scholarships/",
+      "status": 200,
+      "finalUrl": "https://cdiowa.org/get-involved/scholarships/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "a0d8798b-1eae-4efb-b108-db382f260f3d",
+      "name": "Cornell College Iowa Promise Scholarship",
+      "url": "https://www.cornellcollege.edu/financial-assistance/scholarships-awards/iowa-promise/",
+      "status": 200,
+      "finalUrl": "https://www.cornellcollege.edu/financial-assistance/scholarships-awards/iowa-promise/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "cc3aa8cb-e498-4dbe-8762-38fef8ab1b4f",
+      "name": "Crimson and Cream Foundation Scholarship",
+      "url": "https://mncrimsonandcream.org/",
+      "status": 200,
+      "finalUrl": "https://mncrimsonandcream.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d4e8de52-bef8-4831-8e95-485cf8b35c71",
+      "name": "DECA Scholarships",
+      "url": "https://www.deca.org/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.deca.org/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "f2b312f9-7914-4fa2-910b-2526f0cbec8d",
+      "name": "Dell Scholars Program",
+      "url": "https://www.dellscholars.org/",
+      "status": 200,
+      "finalUrl": "https://www.dellscholars.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b0860449-d783-4fb0-8158-979bbfa68bdd",
+      "name": "Des Moines Women's Club Literature Scholarship for High School Seniors",
+      "url": "https://www.desmoineswomensclub.com/dmwc-literature-scholarship-for-high-school-seniors",
+      "status": 200,
+      "finalUrl": "https://www.desmoineswomensclub.com/dmwc-literature-scholarship-for-high-school-seniors",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "28e9c718-a85b-4ad0-896d-21046b690068",
+      "name": "Des Moines Women's Club Marjorie O'Braza STEM Scholarship for High School Students",
+      "url": "https://www.desmoineswomensclub.com/marjorie-obraza-stem-scholarship-for-high-school-students",
+      "status": 200,
+      "finalUrl": "https://www.desmoineswomensclub.com/marjorie-obraza-stem-scholarship-for-high-school-students",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "30873184-d6f0-4ed6-afcb-4289447bd683",
+      "name": "DMACC Foundation Prairie Trail Scholarship",
+      "url": "https://www.dmacc.edu/foundation/prairietrailscholarship.html",
+      "status": 200,
+      "finalUrl": "https://www.dmacc.edu/foundation/prairietrailscholarship.html",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "36f5dc70-179b-4407-a529-7287e21e6e80",
+      "name": "Drake University Bulldog Promise and Bright College Pathway",
+      "url": "https://www.drake.edu/admission-aid/financial-aid/promise",
+      "status": 200,
+      "finalUrl": "https://www.drake.edu/admission-aid/financial-aid/promise",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "bc64fc37-0ae9-40c2-8dd7-a9a972095006",
+      "name": "Dunwoody High School Engagement Scholarship",
+      "url": "https://dunwoody.edu/admission-aid/scholarships/high-school-engagement-scholarship/",
+      "status": 200,
+      "finalUrl": "https://dunwoody.edu/admission-aid/scholarships/high-school-engagement-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dac2fb9f-b38b-4677-aead-d7440e864fbb",
+      "name": "FBLA High School Scholarships and Awards",
+      "url": "https://www.fbla.org/high-school/hs-scholarships-aid/",
+      "status": 200,
+      "finalUrl": "https://www.fbla.org/high-school/hs-scholarships-aid/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "207ddf0d-ac31-43a6-a610-ba6bbeacbfa2",
+      "name": "Fisher House Scholarships for Military Children",
+      "url": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/",
+      "status": 200,
+      "finalUrl": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "78b3a94e-4a28-4743-bd28-de33d7665244",
+      "name": "Fisher House Scholarships for Military Children",
+      "url": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/",
+      "status": 200,
+      "finalUrl": "https://www.fisherhouse.org/programs/scholarship-programs/scholarships-for-military-children/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "55005d26-4c6e-4d44-9a2e-410edb24ada1",
+      "name": "Fleet Reserve Association Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b4d483e0-8cc6-4842-86c4-a8dc01a82ba3",
+      "name": "Folds of Honor Scholarships",
+      "url": "https://foldsofhonor.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://foldsofhonor.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "236f4af1-c9c5-4dae-b59d-9eaf29aedddd",
+      "name": "Future Ready Iowa Last-Dollar Scholarship",
+      "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/last-dollar",
+      "status": 200,
+      "finalUrl": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/last-dollar",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1d3fde41-0e1f-4398-b651-6cffd01cfc8d",
+      "name": "GE-Reagan Foundation Scholarship Program",
+      "url": "https://www.reaganfoundation.org/education/scholarship-programs/ge-reagan-foundation-scholarship-program",
+      "status": 200,
+      "finalUrl": "https://www.reaganfoundation.org/education/ge-reagan-foundation-scholarship",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "e4103f4d-991f-45cc-a978-d7b8cdf22408",
+      "name": "Genesys Works Twin Cities",
+      "url": "https://genesysworks.org/locations/twin-cities/",
+      "status": 200,
+      "finalUrl": "https://genesysworks.org/locations/twin-cities/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "55cbe7bb-fad6-4759-a1c8-8b0392528d97",
+      "name": "Get Ready Student Success Scholarship",
+      "url": "https://getready.mn.gov/get-ready/get-ready-student-success-scholarship",
+      "status": 200,
+      "finalUrl": "https://getready.mn.gov/get-ready/get-ready-student-success-scholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "7ce00871-0b60-4d84-826d-6ce9d4f788f8",
+      "name": "Glenn F. Glezen Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "3b35c680-ed28-417f-bb66-8854e8c8a9c7",
+      "name": "Grand Lodge of Iowa Masonic Scholarship Programs",
+      "url": "https://www.grandlodgeofiowa.org/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.grandlodgeofiowa.org/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "12e985fe-b6e5-4994-9e64-dccdd13b667f",
+      "name": "Grand View Christian School Senior Scholarship Packet / Counselor Leads",
+      "url": "https://grandviewchristianschool.org/",
+      "status": 200,
+      "finalUrl": "https://grandviewchristianschool.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "850af273-3af0-4ac5-b7e4-e52a2521d1b1",
+      "name": "Grand View University GV Next",
+      "url": "https://www.grandview.edu/admissions/financial-aid/gv-next",
+      "status": 200,
+      "finalUrl": "https://www.grandview.edu/admissions/financial-aid/gv-next",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ed9f9f4d-5374-4aca-9456-963f43361213",
+      "name": "Grand View University Immigrant Iowan Scholarship",
+      "url": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants/immigrant-iowan/reference-form",
+      "status": 404,
+      "finalUrl": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants/immigrant-iowan/reference-form",
+      "redirected": false,
+      "category": "broken"
+    },
+    {
+      "id": "ecec7542-664a-49b6-a861-17d8eb0dba23",
+      "name": "Grand View University Scholarship Day",
+      "url": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants/scholarship-day",
+      "status": 200,
+      "finalUrl": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants/scholarship-day",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "4f5232a2-d520-422c-a3e6-3149b222f208",
+      "name": "Grand View University STEM Scholarship",
+      "url": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants",
+      "status": 200,
+      "finalUrl": "https://www.grandview.edu/admissions/financial-aid/scholarships-grants",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b9ef03a9-bae7-4f7a-b702-efeb52851fce",
+      "name": "Greater Iowa Credit Union Project Scholar",
+      "url": "https://www.gicu.org/gic-you/community/project-scholar/",
+      "status": 200,
+      "finalUrl": "https://www.gicu.org/gic-you/community/project-scholar/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "bc7fd63b-d418-4843-8e25-039c3fae0f0d",
+      "name": "Hagan Scholarship",
+      "url": "https://haganscholarships.org/application/",
+      "status": 200,
+      "finalUrl": "https://haganscholarships.org/application/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dd3508ee-06b2-4ef9-80c4-b15e6c116d20",
+      "name": "Hagan Scholarship",
+      "url": "https://haganscholarships.org/",
+      "status": 200,
+      "finalUrl": "https://haganscholarships.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "02ed03ab-fe39-4a7c-90d2-b633a364628f",
+      "name": "Helen Abbott Community Service Awards",
+      "url": "https://www.aaiusa.org/scholarships-apply",
+      "status": 200,
+      "finalUrl": "https://www.aaiusa.org/scholarships-apply",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "5df54fe7-ecb6-40c3-985f-3d2849121d97",
+      "name": "Herbert Hoover Uncommon Student Award",
+      "url": "https://hooverpresidentialfoundation.org/uncommon-student-award/",
+      "status": 200,
+      "finalUrl": "https://hooverpresidentialfoundation.org/uncommon-student-award/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "02c1c366-9430-48d0-80fb-87123015474a",
+      "name": "Horatio Alger National and State Scholarships",
+      "url": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "status": 200,
+      "finalUrl": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "995b9e48-1ad7-43d5-9287-334a21f7feb4",
+      "name": "Horatio Alger National and State Scholarships",
+      "url": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "status": 200,
+      "finalUrl": "https://scholars.horatioalger.org/scholarships-and-services/undergraduate-scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "465234d5-6724-482d-8ec1-263a3bb488b7",
+      "name": "Individual Contributions Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a8b7281c-da72-45d2-9e30-02717f2a1b36",
+      "name": "Iowa Association of School Boards Foundation High School Senior Scholarship",
+      "url": "https://www.ia-sb.org/",
+      "status": 200,
+      "finalUrl": "https://www.ia-sb.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "bf337ca6-1b7f-4b06-bdf8-34ad9c9f8456",
+      "name": "Iowa Automobile Dealers Foundation for Education Scholarship",
+      "url": "https://iowaautofoundation.org/scholarships/scholarship-guidelines/",
+      "status": 200,
+      "finalUrl": "https://iowaautofoundation.org/scholarships/scholarship-guidelines/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b37db94e-3f42-4463-a098-a4fc2c6d525d",
+      "name": "Iowa Communications Alliance Member Scholarship",
+      "url": "https://www.iacommunicationsall.org/",
+      "status": 200,
+      "finalUrl": "https://www.iacommunicationsall.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ea1b4f0c-8158-41c2-b56f-f5fd89e483c5",
+      "name": "Iowa Farm Bureau Scholarship Program",
+      "url": "https://www.iowafarmbureau.com/WebsitePageFile/file/88051928-6e1f-4bbb-9c90-2492b34cec1b/2026Guidelines.pdf",
+      "status": 200,
+      "finalUrl": "https://www.iowafarmbureau.com/WebsitePageFile/file/88051928-6e1f-4bbb-9c90-2492b34cec1b/2026Guidelines.pdf",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ed826a24-f2af-48ed-b48a-6962428ae254",
+      "name": "Iowa Financial Know-How Challenge / ISL Senior Scholarship Watch",
+      "url": "https://www.iowastudentloan.org/newsroom/press-releases/2023/iowa-high-school-seniors-awarded-scholarships-by-nonprofit.aspx",
+      "status": 200,
+      "finalUrl": "https://www.iowastudentloan.org/newsroom/press-releases/2023/iowa-high-school-seniors-awarded-scholarships-by-nonprofit.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d81f4607-d6aa-4521-afb0-bd1ea3c61056",
+      "name": "Iowa RYLA Leadership Program",
+      "url": "https://www.iowaryla.org/",
+      "status": 200,
+      "finalUrl": "https://www.iowaryla.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "9abb51a0-5ae1-4b3d-bbfd-d9617ec66536",
+      "name": "Iowa Scholarship for the Arts",
+      "url": "https://opportunityiowa.gov/media/4055/download?inline=",
+      "status": 200,
+      "finalUrl": "https://opportunityiowa.gov/media/4055/download?inline=",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "f787f82b-5e89-4ae1-9b9a-28163e597787",
+      "name": "Iowa State University National Scholars Program",
+      "url": "https://www.iastate.edu/admission-and-aid/admissions/first-year-students/national-scholars",
+      "status": 200,
+      "finalUrl": "https://www.iastate.edu/admission-and-aid/admissions/first-year-students/national-scholars",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "013782e5-b7b8-4283-9128-6d5b5284f784",
+      "name": "Iowa Tuition Grant",
+      "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-tuition-grant",
+      "status": 200,
+      "finalUrl": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/iowa-tuition-grant",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "cde5ada7-df0e-46c5-bfd1-3caa2e9a48a1",
+      "name": "Iowa United Methodist Foundation High School Senior Scholarships",
+      "url": "https://iumf.org/scholarships/high-school-senior-scholarships/",
+      "status": 200,
+      "finalUrl": "https://iumf.org/scholarships/high-school-senior-scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d0083b74-0fb8-4d2b-82fe-f81499b133fa",
+      "name": "Iowa Vocational-Technical Tuition Grant",
+      "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/vocational-technical-tuition",
+      "status": 200,
+      "finalUrl": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/vocational-technical-tuition",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "e02f870f-53d7-49e1-a5bb-c2d233d24bf9",
+      "name": "Iowa Workforce Development Grants and Scholarships",
+      "url": "https://workforce.iowa.gov/opportunities/grants",
+      "status": 200,
+      "finalUrl": "https://workforce.iowa.gov/opportunities/grants",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "8cf92ee2-1169-476b-a3b8-398e1326231d",
+      "name": "ISL Education Lending Scholarship",
+      "url": "https://www.iowastudentloan.org/scholarships/isl-education-lending-scholarship.aspx",
+      "status": 200,
+      "finalUrl": "https://www.iowastudentloan.org/scholarships/isl-education-lending-scholarship.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dc53a209-8d48-4a01-ad4d-e58b803e3232",
+      "name": "Jack Kent Cooke Foundation College Scholarship Program",
+      "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+      "status": 200,
+      "finalUrl": "https://www.jkcf.org/our-scholarships/college-scholarship-program/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "abe9c885-3768-47bb-96bb-9419725cd4c0",
+      "name": "Jack Kent Cooke Foundation College Scholarship Program",
+      "url": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/",
+      "status": 200,
+      "finalUrl": "https://www.jkcf.org/our-scholarships/college-scholarship-program/how-to-apply/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c6f4b8cb-4b2a-4328-bafe-a3caf682e1eb",
+      "name": "Joseph R. Baranski Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "029fb6b6-d227-4668-8c46-600003e169b6",
+      "name": "Keep Iowa Beautiful Scholarship",
+      "url": "https://keepiowabeautiful.org/grants-scholarships/scholarships/",
+      "status": 200,
+      "finalUrl": "https://keepiowabeautiful.org/grants-scholarships/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d30c3e77-46f8-47c2-9ea5-eb3a887200ef",
+      "name": "Kiwanis Children's Fund Scholarships / Key Club Pathway",
+      "url": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities-faqs/",
+      "status": 403,
+      "finalUrl": "https://www.kiwanis.org/who-we-are/kiwanis-childrens-fund/scholarship-opportunities-faqs/",
+      "redirected": false,
+      "category": "restricted"
+    },
+    {
+      "id": "93f429e3-18b4-4a44-9cb7-32c2540450d6",
+      "name": "Lake Harriet Lodge Foundation Scholarship",
+      "url": "https://www.lakeharrietlodge.org/scholarshipprogram",
+      "status": 200,
+      "finalUrl": "https://www.lakeharrietlodge.org/scholarshipprogram",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a287058c-2f33-48a4-88b2-fd2944018c3f",
+      "name": "Landus Excellence in Agriculture Scholarship",
+      "url": "https://www.landus.ag/news/landus-is-now-accepting-applications-for-the-excellence-in-ag-scholarship",
+      "status": 429,
+      "finalUrl": "https://www.landus.ag/news/landus-is-now-accepting-applications-for-the-excellence-in-ag-scholarship",
+      "redirected": false,
+      "category": "restricted"
+    },
+    {
+      "id": "6a9237b0-9168-4b8d-8890-724f169ea41a",
+      "name": "Latino Economic Development Center Fondo de Becas para Latinos",
+      "url": "https://www.ledcmn.org/es/fondo-de-becas-para-latinos/",
+      "status": 200,
+      "finalUrl": "https://www.ledcmn.org/es/fondo-de-becas-para-latinos/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "8dcf5a29-4c01-4ffe-8c7f-6bcf8f4ea71a",
+      "name": "Let Grow Think for Yourself Scholarship",
+      "url": "https://letgrow.org/program/think-for-yourself-scholarship-2026/",
+      "status": 200,
+      "finalUrl": "https://letgrow.org/program/think-for-yourself-scholarship-2026/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "52c5ef3c-e3d7-4100-b429-8f0e11e2eb90",
+      "name": "Loras Promise",
+      "url": "https://loras.edu/promise/",
+      "status": 200,
+      "finalUrl": "https://loras.edu/promise/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b02352f2-56cd-462c-9968-cca7aed95d2b",
+      "name": "Luther College Impact Awards and Imagine Fellowship",
+      "url": "https://www.luther.edu/admission-aid/cost-financial-aid/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.luther.edu/admission-aid/cost-financial-aid/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d85c2e5f-6de0-41c0-b2a9-c4a08882a289",
+      "name": "Macalester Tuition Promise",
+      "url": "https://www.macalester.edu/financial-aid/?p=3795",
+      "status": 200,
+      "finalUrl": "https://www.macalester.edu/financial-aid/policies/macalester-tuition-promise/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "3a130cf2-a27d-4aee-aa6c-4371465b0f7b",
+      "name": "MacPhail Financial Aid & Scholarships",
+      "url": "https://www.macphail.org/financial-aid-scholarships/",
+      "status": 200,
+      "finalUrl": "https://macphail.org/financial-aid-scholarships/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "619e087c-2d6e-427b-b001-d59fde6e7126",
+      "name": "MacPhail Instrument Lessons Scholarships",
+      "url": "https://www.macphail.org/financial-aid-scholarships/",
+      "status": 200,
+      "finalUrl": "https://macphail.org/financial-aid-scholarships/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "1d2edb17-b408-448e-88bd-6c611a3c0ef1",
+      "name": "MacPhail Varsity Ensembles",
+      "url": "https://www.macphail.org/meta/varsity-ensembles/",
+      "status": 200,
+      "finalUrl": "https://macphail.org/meta/varsity-ensembles/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "c762d70f-6760-4b5a-98fd-68bc7b2083ea",
+      "name": "Marshalltown Area Soccer Club Scholarship Fund",
+      "url": "https://www.mascsoccer.org/Default.aspx?tabid=2203605",
+      "status": 200,
+      "finalUrl": "https://www.mascsoccer.org/Default.aspx?tabid=2203605",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "f6419bc7-dfbb-4c8c-976b-4e4f62259fa1",
+      "name": "MCNF Guardians of Sovereignty (Female) scholarship",
+      "url": "https://creeknationfoundation.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://creeknationfoundation.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a785c9ba-a31d-4d27-8e65-fcd9c431851c",
+      "name": "MCNF Guardians of Sovereignty (male) scholarship",
+      "url": "https://creeknationfoundation.org/scholarships/",
+      "status": 200,
+      "finalUrl": "https://creeknationfoundation.org/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d0db252f-d0e7-451a-ac69-640109140521",
+      "name": "Mercer Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "138b775d-2ff9-462b-a0f5-17931b1e3330",
+      "name": "Minneapolis College Foundation Scholarships",
+      "url": "https://minneapolis.edu/admissions/scholarships",
+      "status": 200,
+      "finalUrl": "https://minneapolis.edu/admissions/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "e9b8e8cd-3ba5-4e75-9260-a5fdb305e905",
+      "name": "Minneapolis-St. Paul Links Incorporated Scholarship",
+      "url": "https://msplinks.org/2026/02/2025-links-scholarship-application/",
+      "status": 200,
+      "finalUrl": "https://msplinks.org/2026/02/links-scholarship-application/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "88327a83-b370-4b42-a394-184f51d3fe7d",
+      "name": "Minnesota Academic Excellence Scholarship",
+      "url": "https://www.revisor.mn.gov/statutes/cite/135A.30",
+      "status": 200,
+      "finalUrl": "https://www.revisor.mn.gov/statutes/cite/135A.30",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1b56c35f-ee5a-4b94-b3c9-a03fc19e36b5",
+      "name": "Minnesota AFL-CIO Scholarships",
+      "url": "https://mnaflcio.org/system/files/2025-10/2026_scholarship_application.pdf",
+      "status": 200,
+      "finalUrl": "https://mnaflcio.org/system/files/2025-10/2026_scholarship_application.pdf",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1dad1ab7-f98c-43f4-80b2-77cda32600cb",
+      "name": "Minnesota Association of Townships Scholarship",
+      "url": "https://www.mntownships.org/about/scholarship-program",
+      "status": 200,
+      "finalUrl": "https://www.mntownships.org/about/scholarship-program",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c0450f8e-f202-4ee2-a2b6-21dfbb32908e",
+      "name": "Minnesota Child Care Grant",
+      "url": "https://www.myhighered.mn.gov/paying-college/grants",
+      "status": 200,
+      "finalUrl": "https://www.myhighered.mn.gov/paying-college/grants",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "68e001af-4a93-4094-9928-31bd1d75bd1d",
+      "name": "Minnesota Construction Association Tech/Trade Scholarship",
+      "url": "https://mnconstruction.org/scholarship-application-trade-tech-school-program/",
+      "status": 200,
+      "finalUrl": "https://mnconstruction.org/scholarship-application-trade-tech-school-program/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "26a1a768-0731-4991-82c9-8373a33d9157",
+      "name": "Minnesota Fostering Independence Higher Education Grant",
+      "url": "https://www.myhighered.mn.gov/paying-college/grants",
+      "status": 200,
+      "finalUrl": "https://www.myhighered.mn.gov/paying-college/grants",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ba0b8afe-8efe-4352-9bb3-e491f4edcbf7",
+      "name": "Minnesota Grocers Association Foundation Scholarship",
+      "url": "https://www.mngrocers.com/scholarship/",
+      "status": 200,
+      "finalUrl": "https://www.mngrocers.com/scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "0a90f77a-2ce1-4af6-b3de-1d22b128dfd8",
+      "name": "Minnesota Indian Scholarship Program",
+      "url": "https://www.myhighered.mn.gov/paying-college/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.myhighered.mn.gov/paying-college/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d6b24424-4d6f-4882-9250-70569da9ce0c",
+      "name": "Minnesota Masonic Charities Heritage Scholarship",
+      "url": "https://mnmasoniccharities.org/programs/scholarships/",
+      "status": 200,
+      "finalUrl": "https://mnmasoniccharities.org/programs/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c24688a0-2185-411e-a7f4-6b9713e3d72c",
+      "name": "Minnesota Masonic Charities Selfless Scholar Scholarship",
+      "url": "https://mnmasoniccharities.org/programs/scholarships/",
+      "status": 200,
+      "finalUrl": "https://mnmasoniccharities.org/programs/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "2f037643-f432-4b67-a103-554767c456b7",
+      "name": "Minnesota Masonic Charities Signature Scholarship",
+      "url": "https://mnmasoniccharities.org/programs/scholarships/",
+      "status": 200,
+      "finalUrl": "https://mnmasoniccharities.org/programs/scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b02278c6-14e3-4120-8758-4fd81402e5f3",
+      "name": "Minnesota Paramedic Scholarship",
+      "url": "https://www.myhighered.mn.gov/paying-college/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.myhighered.mn.gov/paying-college/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "8b96b160-ad90-40e6-886c-3b1e26376b0c",
+      "name": "Minnesota State Grant",
+      "url": "https://ohe.mn.gov/grant-scholarship/minnesota-state-grant",
+      "status": 200,
+      "finalUrl": "https://validate.perfdrive.com/?ssa=971cea8e-d356-45bd-9e56-37df8a0f3415&ssb=68487247807&ssc=https%3A%2F%2Fohe.mn.gov%2Fgrant-scholarship%2Fminnesota-state-grant&ssi=5f36f5c9-dx4a-4f6f-a947-1759f9eefcf2&ssk=botmanager_support@radware.com&ssm=09782928260673875100483621196307&ssn=fb8a9f5f6e96baf480ff03d91a3ae95a8e9cccc17827-c080-4448-b21e67&sso=a1b6796e-4f22fb787c72149dc8b1213c7dd599d8226c894886074df3&ssp=04703968921786481445178640991874881&ssq=70654010663337656180806633417992745034351&ssr=NjQuMTMxLjMzLjE1Ng==&sst=Mozilla/5.0%20CoxAid%20Scholarship%20Verifier/1.0&ssu=&ssv=&ssw=&ssx=eyJyZCI6Im1uLmdvdiIsInV6bXgiOiI3ZmMwMDBjNzE2YmQzMi1jZTQ1LTQyODYtOTAxZS0yNWZjNmNjMDQ3NzQxLTE3ODY0MDY2MzM4MDUwLTAwMGE0MGFhMjZhZjE4NjM3YzUxMCIsIl9fdXptZiI6IjdmOTAwMGNjYzE3ODI3LWMwODAtNDQ0OC1iOTZlLTRmMjJmYjc4N2M3MjEtMTc4NjQwNjYzMzgwNjAtMDAxNjkxNDc2MjZhMTIyNDkwMjEwIn0=",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "769056fb-0667-4782-af22-1df8903ab8f2",
+      "name": "MMEA All-State Camp Scholarship",
+      "url": "https://mmea.org/events/all-state/all-state-camps/",
+      "status": 200,
+      "finalUrl": "https://mmea.org/events/all-state/all-state-camps/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1ba28be8-4326-403e-bd6a-25885dd5ef42",
+      "name": "MNIAAA Student Scholarship",
+      "url": "https://www.mniaaa.org/studentscholarship",
+      "status": 200,
+      "finalUrl": "https://www.mniaaa.org/studentscholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "8c64c994-fc77-4ae0-8b16-7aa77212e30a",
+      "name": "MSBA Student School Board Member Scholarship",
+      "url": "https://mnmsba.org/msba-scholarship/",
+      "status": 200,
+      "finalUrl": "https://mnmsba.org/msba-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ae678124-089f-42c9-8dd7-1f4e201ea931",
+      "name": "Muslim Youth Leadership Awards",
+      "url": "https://mylawards.org/programs.html",
+      "status": 200,
+      "finalUrl": "https://mylawards.org/programs.html",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "5e6fa609-6319-4b93-8160-0f944b6ff933",
+      "name": "MY Credit Union Scholarship",
+      "url": "https://www.mymncu.org/educate/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.mymncu.org/educate/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c95b6460-011e-494e-87b7-8050f800ed89",
+      "name": "National Security Language Initiative for Youth (NSLI-Y) - Mandarin",
+      "url": "https://www.nsliforyouth.org/",
+      "status": 200,
+      "finalUrl": "https://www.nsliforyouth.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "77353d87-c40a-4be7-9163-b292386dde4c",
+      "name": "NAVAL HELICOPTER ASSOCIATION SCHOLARSHIP FUND (NHASF)",
+      "url": "https://www.nhascholarshipfund.org/",
+      "category": "network_error",
+      "error": "fetch failed"
+    },
+    {
+      "id": "1d83f575-686a-4e05-b531-b4a7d2f4e1bb",
+      "name": "Niche $2,000 No Essay Scholarship",
+      "url": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+      "status": 200,
+      "finalUrl": "https://www.niche.com/colleges/scholarships/no-essay-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "ad0c4237-3a54-4d2d-a920-1dc293d5d7fc",
+      "name": "Non-Traditional Student Scholarship",
+      "url": "https://www.legion-aux.org/scholarships",
+      "status": 200,
+      "finalUrl": "https://www.legion-aux.org/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "3f0b9c73-2c61-44c4-9979-c66ffd3c6fb9",
+      "name": "North Dakota Military Scholarship Fund",
+      "url": "https://www.ndcf.net/receive/scholarships/ndmilitary.html",
+      "status": 200,
+      "finalUrl": "https://www.ndcf.net/receive/scholarships/ndmilitary.html",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "91dc2910-8522-48ed-9045-a3c84b02bdfa",
+      "name": "North Star Promise",
+      "url": "https://ohe.mn.gov/northstarpromise",
+      "status": 200,
+      "finalUrl": "https://validate.perfdrive.com/?ssa=71d60168-477f-48c5-8f0f-92178c2ed512&ssb=68633212126&ssc=https%3A%2F%2Fohe.mn.gov%2Fnorthstarpromise&ssi=c5622e16-dx4a-4ca3-9388-7d537ff03a1b&ssk=botmanager_support@radware.com&ssm=88458197393312818107191636977101&ssn=0ff104a0f73e07c83ff31f2d9f3a84e5095ce8e3201a-eade-4f25-a78660&sso=1fc2a83b-92e2518b0d2e76c0b1a23714dd50cd170180da1222a5d48d&ssp=44643004861786420708178645453524393&ssq=90358440663456577780206634016670318337090&ssr=NjQuMTMxLjMzLjE1Ng==&sst=Mozilla/5.0%20CoxAid%20Scholarship%20Verifier/1.0&ssu=&ssv=&ssw=&ssx=eyJfX3V6bWYiOiI3ZjkwMDBlOGUzMjAxYS1lYWRlLTRmMjUtYTgzYi05MmUyNTE4YjBkMmUxLTE3ODY0MDY2MzQyMzEwLTAwMWQxOGQ1YzExYWYxNWJhNmIxMCIsInV6bXgiOiI3ZmMwMDBlNGUzNDMxYy01MmE3LTQ0YzYtYWFhZS04YTU3ODQwYTNmNzcxLTE3ODY0MDY2MzQyMzEwLTAwMGNiZWViZjliYTc5MTM3YmYxMCIsInJkIjoibW4uZ292In0=",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "65592100-2056-45c3-a76c-addd12698c6f",
+      "name": "NU Veterans, Spouses, and Dependents Scholarships",
+      "url": "https://www.nu.edu/admissions/financial-aid-and-scholarships/scholarships/Veterans-spouses-and-dependents-scholarship/",
+      "status": 200,
+      "finalUrl": "https://www.nu.edu/admissions/financial-aid-and-scholarships/scholarships/Veterans-spouses-and-dependents-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "12fb02e9-ab52-40ba-b3a9-66085416ed06",
+      "name": "Omicron Boulé Woodson Mitchell Fountain Scholarship Fund",
+      "url": "https://mplsfoundation.smapply.org/prog/omicron_boule/",
+      "status": 200,
+      "finalUrl": "https://mplsfoundation.smapply.org/prog/omicron_boule/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "20c34996-c0c5-461a-a46b-b5a4ee7f8cb8",
+      "name": "Optimist International Essay Contest",
+      "url": "https://www.optimist.org/essay",
+      "status": 200,
+      "finalUrl": "https://www.optimist.org/essay",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "34a43e6a-3753-493c-96bd-5ca91b66873b",
+      "name": "Optimist International Oratorical Contest",
+      "url": "https://www.optimist.org/oratorical",
+      "status": 200,
+      "finalUrl": "https://www.optimist.org/oratorical",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "2ef01eee-75f6-4676-a8ec-5d01e45de28b",
+      "name": "Page Education Foundation Page Grant",
+      "url": "https://www.page-ed.org/",
+      "status": 200,
+      "finalUrl": "https://www.page-ed.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "b5781a41-632f-40a8-916e-e33ffc77eaf9",
+      "name": "Piper Promise",
+      "url": "https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year/hamline-promise",
+      "status": 200,
+      "finalUrl": "https://www.hamline.edu/admission-aid/financial-aid/grants-scholarships/first-year/piper-promise",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "cfdcba47-0dae-4b7d-8744-0b55f8f6a263",
+      "name": "Polk County Conservation Youth Corps / AmeriCorps",
+      "url": "https://www.polkcountyiowa.gov/conservation/americorps-service/",
+      "status": 200,
+      "finalUrl": "https://www.polkcountyiowa.gov/conservation/americorps-service/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1f924099-eba4-411a-a50a-b9b11e6fc624",
+      "name": "Prairie Meadows High School Scholarship Program",
+      "url": "https://www.prairiemeadows.com/about-us/scholarship-program",
+      "status": 404,
+      "finalUrl": "https://www.prairiemeadows.com/about-us/scholarship-program",
+      "redirected": false,
+      "category": "broken"
+    },
+    {
+      "id": "f9b8c5d0-267b-42ac-b5c1-621e04217fa0",
+      "name": "Professional Educators of Iowa Student Scholarships",
+      "url": "https://peiowa.org/foundation/scholarships/student-scholarships/",
+      "status": 200,
+      "finalUrl": "https://peiowa.org/foundation/scholarships/student-scholarships/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "cff5f8c6-d3ad-45dd-bd7e-6bfef8699ed8",
+      "name": "Professional Educators of Iowa Teacher of Tomorrow Scholarship",
+      "url": "https://peiowa.org/teacher-of-tomorrow-scholarship-application/",
+      "status": 200,
+      "finalUrl": "https://peiowa.org/teacher-of-tomorrow-scholarship-application/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "127b2f0b-d24a-4673-8c59-a5fd24e17f46",
+      "name": "Prudential Emerging Visionaries",
+      "url": "https://www.prudential.com/bi/our-commitment/emergingvisionaries",
+      "status": 404,
+      "finalUrl": "https://www.prudential.com/bi/our-commitment/emergingvisionaries",
+      "redirected": false,
+      "category": "broken"
+    },
+    {
+      "id": "80d5018a-f153-478c-b8c2-145af2fdf2a2",
+      "name": "Puckett Scholars Program",
+      "url": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "status": 200,
+      "finalUrl": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1a1b4074-2c20-4034-b8b9-4e9e6f1f035c",
+      "name": "QuestBridge National College Match",
+      "url": "https://www.questbridge.org/high-school-students/national-college-match",
+      "status": 200,
+      "finalUrl": "https://www.questbridge.org/apply-to-college/programs/national-college-match",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "f00a4812-78a6-4d7b-962a-d7ef3e91b904",
+      "name": "Raise.me Micro-Scholarships",
+      "url": "https://www.raise.me/how-it-works",
+      "status": 200,
+      "finalUrl": "https://www.raise.me/how-it-works",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "dd52f9ba-6061-44ea-a9ca-0f94713dc80b",
+      "name": "Regions Riding Forward Scholarship Contest",
+      "url": "https://www.regions.com/about-regions/inclusion-belonging-impact/supporting-communities/essay-contest-scholarship",
+      "status": 200,
+      "finalUrl": "https://www.regions.com/about-regions/inclusion-belonging-impact/supporting-communities/essay-contest-scholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "02e1ba5d-a53c-46c3-9746-80b84f073925",
+      "name": "Results Foundation Scholarship",
+      "url": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "status": 200,
+      "finalUrl": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d74a287a-1a2c-4f37-a305-165727807b88",
+      "name": "Richard L. Wendorf Veteran Assistance Fund",
+      "url": "https://veterans.msu.edu/scholarships-and-grants",
+      "status": 200,
+      "finalUrl": "https://veterans.msu.edu/scholarships-and-grants",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "35bf4dc1-4f76-4c35-9737-4b0b201eec9e",
+      "name": "Robert D. Blue Scholarship",
+      "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/robert-d-blue-scholarship",
+      "status": 200,
+      "finalUrl": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/robert-d-blue-scholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "7014a145-4d66-4716-8696-353ddc5e51c3",
+      "name": "Robert W. Nolan Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "category": "timeout",
+      "error": "This operation was aborted"
+    },
+    {
+      "id": "671dcd76-b80d-4b7c-ab39-fc51e257fa7d",
+      "name": "Robert. M. Treadwell Annual Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "8a13a007-e289-4f71-b76c-6ec860c3c178",
+      "name": "RRFC Military and Family Scholarship",
+      "url": "https://recordingconnection.com/military-discounts/",
+      "status": 200,
+      "finalUrl": "https://recordingconnection.com/military-discounts/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "4bbf38a6-45f7-4879-9080-1c9e55f3f250",
+      "name": "Samsung American Legion Scholarship",
+      "url": "https://www.legion.org/get-involved/scholarships/samsung-american-legion-scholarship",
+      "status": 200,
+      "finalUrl": "https://www.legion.org/get-involved/scholarships/samsung-american-legion-scholarship",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "d4aa4673-0e92-4b37-a30f-162ee258fc0a",
+      "name": "Sarah A. Bonnifield Vietnam Veterans Scholarship Fund -",
+      "url": "https://sacregcf.academicworks.com/opportunities/1340",
+      "status": 200,
+      "finalUrl": "https://sacregcf.academicworks.com/opportunities/1915",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "3ebdc5c2-f96a-4ce8-9bf9-a292a2f52cdc",
+      "name": "SFM Foundation Scholarship",
+      "url": "https://www.sfmfoundation.com/apply/",
+      "status": 200,
+      "finalUrl": "https://www.sfmfoundation.com/apply/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "46b98721-2596-4dc6-9cd1-7cf579f2f161",
+      "name": "Simpson College All-in for Iowa",
+      "url": "https://www.simpson.edu/admissions-aid/financial-aid-affordability/allinforiowa/",
+      "status": 200,
+      "finalUrl": "https://www.simpson.edu/admissions-aid/financial-aid-affordability/allinforiowa/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "aedb0b2b-15b4-4a5e-97ea-d94f15c6c8fc",
+      "name": "Step Up Minneapolis Paid Internships",
+      "url": "https://www.achievetwincities.org/stepup",
+      "status": 200,
+      "finalUrl": "https://www.achievetwincities.org/stepup",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "616033e9-d428-4feb-9fa9-7283cd2830da",
+      "name": "Student Referee Scholarship",
+      "url": "https://bold.org/scholarships/student-referee-scholarship/",
+      "status": 200,
+      "finalUrl": "https://bold.org/scholarships/student-referee-scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1f33506e-2c55-49fb-9bc5-ec265c876cea",
+      "name": "Taco Bell Foundation Live Más Scholarship",
+      "url": "https://www.tacobellfoundation.org/live-mas-scholarship2/",
+      "status": 200,
+      "finalUrl": "https://tacobellfoundation.org/live-mas-scholarship2/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "2ade63ff-ce91-463a-86ce-998895b39654",
+      "name": "Taco Bell Foundation Live Más Scholarship",
+      "url": "https://www.tacobellfoundation.org/live-mas-scholarship/",
+      "status": 200,
+      "finalUrl": "https://tacobellfoundation.org/live-mas-scholarship/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "e774a629-162c-4191-9762-4b9b37fdc926",
+      "name": "The Donald Bruce Pringle Family Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "3e536f3d-6587-48f2-bdd3-5350ffb2d46d",
+      "name": "The Gates Scholarship",
+      "url": "https://www.thegatesscholarship.org/",
+      "status": 200,
+      "finalUrl": "https://www.thegatesscholarship.org/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "5f262095-f7ea-40ba-bb91-875f8f60c700",
+      "name": "Tom and Karen Snee Scholarship",
+      "url": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "status": 200,
+      "finalUrl": "https://fra.org/fra/Web/Web/Content/FRA_Scholarships.aspx",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a2fd88b8-6919-4287-b257-a6e1b6e2ad7b",
+      "name": "Too Cool to Pay for School Scholarship",
+      "url": "https://accessscholarships.com/scholarship/too-cool-to-pay-for-school-scholarship/",
+      "status": 200,
+      "finalUrl": "https://accessscholarships.com/1k-too-cool-to-pay-for-school/",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "d14b9663-e02d-4733-a5e2-0871568815fc",
+      "name": "TROY Military and Family Scholarship",
+      "url": "https://www.troy.edu/scholarships-costs-aid/scholarships/military-family.html",
+      "status": 200,
+      "finalUrl": "https://www.troy.edu/scholarships-costs-aid/scholarships/index.html",
+      "redirected": true,
+      "category": "reachable"
+    },
+    {
+      "id": "ae98e811-745b-4bb6-8bf1-e36a322afd69",
+      "name": "TruStone Financial Foundation MSHSL Scholarship",
+      "url": "https://trustonefinancial.org/foundation/programs/scholarships/mshsl",
+      "status": 200,
+      "finalUrl": "https://trustonefinancial.org/foundation/programs/scholarships/mshsl",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "c7b5bceb-c65b-4c71-9d7b-fb2b3796cffd",
+      "name": "United In Service Scholarship",
+      "url": "https://unitedwayseia.org/scholarship/",
+      "status": 200,
+      "finalUrl": "https://unitedwayseia.org/scholarship/",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "da6f1d46-4cfe-4982-90de-ef2216854f12",
+      "name": "University of Minnesota Alumni Association Freshman Leadership Incentive Scholarship",
+      "url": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "status": 200,
+      "finalUrl": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "e8cc6ec3-51f5-4759-8de7-1abe9dd366dd",
+      "name": "University of Minnesota Chinese Flagship Funding",
+      "url": "https://chineseflagship.umn.edu/funding",
+      "status": 200,
+      "finalUrl": "https://chineseflagship.umn.edu/funding",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "5758a82a-bbd2-4a7a-bbad-1deca94d2017",
+      "name": "University of Minnesota CSE Rooted in STEM / 3M Scholarship Pathway",
+      "url": "https://cse.umn.edu/college/k-12-outreach/rooted-stem",
+      "status": 200,
+      "finalUrl": "https://cse.umn.edu/college/k-12-outreach/rooted-stem",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "a8427189-ec07-4ebe-b7e1-eab8dfe6da62",
+      "name": "University of Minnesota Presidential Scholarship",
+      "url": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "status": 200,
+      "finalUrl": "https://admissions.tc.umn.edu/cost-aid/scholarships/university-wide-academic-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "241f1e00-05f4-4269-a949-3a50b7d73b80",
+      "name": "University of Minnesota Promise Plus Free Tuition Program",
+      "url": "https://system.umn.edu/promise-plus-free-tuition-program",
+      "status": 200,
+      "finalUrl": "https://system.umn.edu/promise-plus-free-tuition-program",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "1b31a047-d49c-4d8d-a1e8-f676efe9fc65",
+      "name": "University of Northern Iowa Scholarships",
+      "url": "https://admissions.uni.edu/financial-aid/types-of-aid/scholarships",
+      "status": 200,
+      "finalUrl": "https://admissions.uni.edu/financial-aid/types-of-aid/scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "660a0cf7-4b99-4a3e-9322-97b617a25757",
+      "name": "VETERANS & MILITARY FAMILY SCHOLARSHIP",
+      "url": "https://www.sinklaw.com/ABOUT/VETERANS-MILITARY-FAMILY-SCHOLARSHIP/",
+      "status": 404,
+      "finalUrl": "https://www.sinklaw.com/ABOUT/VETERANS-MILITARY-FAMILY-SCHOLARSHIP/",
+      "redirected": false,
+      "category": "broken"
+    },
+    {
+      "id": "c01d6ca8-813e-48bd-9e30-e93f66840c6e",
+      "name": "VFW Voice of Democracy Audio-Essay Contest",
+      "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+      "status": 200,
+      "finalUrl": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "39419284-dbe6-49b0-bc8d-c7714d380995",
+      "name": "VFW Voice of Democracy Audio-Essay Contest - Minnesota",
+      "url": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+      "status": 200,
+      "finalUrl": "https://www.vfw.org/community/youth-and-education/youth-scholarships",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "7dcbef77-0ebc-4d7c-aa73-8fd695633a05",
+      "name": "Village Scholars",
+      "url": "https://www.minneapolisfoundation.org/wp-content/uploads/2017/04/Village-Scholars-Application.pdf",
+      "status": 200,
+      "finalUrl": "https://www.minneapolisfoundation.org/wp-content/uploads/2017/04/Village-Scholars-Application.pdf",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "155f9dbe-01da-4fad-9086-1c501e2992f4",
+      "name": "Wallin Education Partners 2-Year Program",
+      "url": "https://www.wallinpartners.org/apply.html",
+      "status": 200,
+      "finalUrl": "https://www.wallinpartners.org/apply.html",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "56bd2355-2ce7-45e7-a297-e0c61bbff4e9",
+      "name": "Wallin Education Partners 4-Year Program",
+      "url": "https://www.wallinpartners.org/4-year-program.html",
+      "status": 200,
+      "finalUrl": "https://www.wallinpartners.org/4-year-program.html",
+      "redirected": false,
+      "category": "reachable"
+    },
+    {
+      "id": "575cec4b-644c-4810-b03b-578c79b353ae",
+      "name": "Winning Pathways Education Scholarship",
+      "url": "https://winningpathways.org/",
+      "status": 200,
+      "finalUrl": "https://winningpathways.org/",
+      "redirected": false,
+      "category": "reachable"
+    }
+  ]
+}
