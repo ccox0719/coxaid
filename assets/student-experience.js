@@ -165,7 +165,7 @@ function enhanceScholarships() {
   if (!scope.nextElementSibling?.classList.contains("studentScholarshipIntro")) {
     const intro = document.createElement("section");
     intro.className = "studentScholarshipIntro";
-    intro.innerHTML = `<div><span class="eyebrow">Best matches</span><h2>Recommended for ${summary}</h2><p>Eligible opportunities are prioritized by profile fit, grade level, deadline, and award value.</p></div><div class="studentSectionKeys" aria-label="Scholarship sections"><span>Apply now</span><span>Due soon</span><span>Grade-level matches</span><span>Saved</span></div>`;
+    intro.innerHTML = `<div><span class="eyebrow">Best matches</span><h2>Recommended for ${summary}</h2><p>Priority reflects verified status, current eligibility, deadline urgency, and major award value. Unverified opportunities cannot rank above 3.</p></div><div class="studentSectionKeys" aria-label="Priority guide"><span>5 · Act now</span><span>4 · Strong target</span><span>3 · Research</span><span>2 · Prepare later</span><span>1 · Low match</span><span>0 · Closed</span></div>`;
     scope.after(intro);
   }
 

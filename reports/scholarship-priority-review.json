@@ -1,0 +1,2142 @@
+{
+  "summary": {
+    "generatedAt": "2026-08-11T00:18:17.781Z",
+    "total": 187,
+    "changed": 0,
+    "before": {
+      "0": 4,
+      "1": 2,
+      "2": 98,
+      "3": 73,
+      "4": 9,
+      "5": 1
+    },
+    "after": {
+      "0": 4,
+      "1": 2,
+      "2": 98,
+      "3": 73,
+      "4": 9,
+      "5": 1
+    }
+  },
+  "proposals": [
+    {
+      "id": "9a1f5486-d100-435f-9fb7-43ddf2c5a12f",
+      "name": "Achieve Twin Cities MPS College Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "36ffb929-f2cb-417e-9e07-399a9bcfb08a",
+      "name": "ACSI Christian College Scholarship Pathways",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "64fb4e65-cf33-40bf-a02f-214cf3a1f8ed",
+      "name": "ACSI Distinguished Christian High School Student Award",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dd7746aa-34fb-48f2-b0ef-4a0079cbb3b9",
+      "name": "AFSCME Council 5 Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "7d19f59d-ad13-482a-91a6-d11b0857ca08",
+      "name": "ALA Non-Traditional Student Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3933dcb3-8b74-469f-b9a3-061248464866",
+      "name": "All Iowa Opportunity Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e4914beb-0d7e-474a-8ae3-130e1739ce23",
+      "name": "American Legion Auxiliary Department of Iowa Children of Veterans Merit Award",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f9378dc0-d9b7-46d2-973a-89b9dab4120a",
+      "name": "AMERICAN LEGION DEPARTMENT OF MISSOURI Charles L. Bacon Memorial Scholarship",
+      "oldPriority": 1,
+      "newPriority": 1,
+      "tier": "Low match",
+      "reasons": [
+        "No current eligibility match recorded"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a6a48607-8ab6-4adb-9aa1-c13310bd9b19",
+      "name": "American Legion of Iowa Foundation Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "57e16da0-6272-4b8e-9f1e-6d2ac28ce809",
+      "name": "American Legion of Iowa High School Oratorical Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now",
+        "Major award value",
+        "Capped until source verification is complete"
+      ],
+      "changed": false
+    },
+    {
+      "id": "daf949c3-4d78-4055-be56-0e680fe3c748",
+      "name": "American Legion Oratorical Contest - Minnesota",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "7a2b3bff-c016-4c61-9cba-92c3c1d7eda4",
+      "name": "AMVETS Children/Grandchildren Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "926fe4f7-fe32-4199-88f3-84bd8b618a62",
+      "name": "Ankeny Area Chamber of Commerce High School Senior Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "60084d66-e08f-4ad9-83dc-9cbe86e399c6",
+      "name": "Ankeny Area Chamber Renee Murphy Legacy Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "798b970a-c13c-4c6a-ab63-0b9392a3444f",
+      "name": "Ankeny Dollars for Scholars",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "07acadb5-ebc0-4393-ab00-f03abe4368cd",
+      "name": "Around the Corner from College Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "19e9fc8b-a688-4f50-a21b-5611ceddc784",
+      "name": "Asian Fair Scholarship",
+      "oldPriority": 0,
+      "newPriority": 0,
+      "tier": "Closed",
+      "reasons": [
+        "The current application cycle is closed"
+      ],
+      "changed": false
+    },
+    {
+      "id": "792054e6-2915-477f-8dec-a3ba3478a4ac",
+      "name": "ASME High School Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "fff313eb-84c5-485d-9366-00186e4d904d",
+      "name": "AUSA Rock Island Arsenal Chapter Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "850d5985-c359-4eb3-bc3d-41addb88dc7f",
+      "name": "AWF “Six Triple Eight” Legacy Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "cb313e78-5b69-49dd-bdb0-c6fd4d989cda",
+      "name": "AWF Legacy Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "70277409-1216-4922-a791-8fa9f725b21e",
+      "name": "AWF M.M. Costello Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d0be56a9-d8a2-4712-becc-500d9ae35dad",
+      "name": "AWF Professional Contract Services, Inc (PCSI) Scholarship for Disabled Veterans",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ba9e28e8-d4c5-4f8f-a2c0-84177a2e96f9",
+      "name": "AYSO Region 1103 College Scholarship - Ruth Grafft AYSO Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "56233a8b-0845-4b7f-8be3-7edc7964868b",
+      "name": "BBB Student of Integrity Scholarships - Iowa / Midwest Plains",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "fe830d55-b3f7-40f7-81a8-9a350f9f681b",
+      "name": "BenGlassLaw Referee and Umpire Leadership Scholarship",
+      "oldPriority": 0,
+      "newPriority": 0,
+      "tier": "Closed",
+      "reasons": [
+        "The current application cycle is closed"
+      ],
+      "changed": false
+    },
+    {
+      "id": "5232c5d0-ac50-48fe-b6fa-bae05f8a613b",
+      "name": "BigFuture Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "4c5964aa-c48d-4e39-ba5e-97cf00be6211",
+      "name": "BigFuture Scholarships (College Board)",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now",
+        "Major award value",
+        "Capped until source verification is complete"
+      ],
+      "changed": false
+    },
+    {
+      "id": "97ada341-5c66-442b-b236-3b5839a09c01",
+      "name": "Bright Scholars of Iowa Award",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c9316c1b-4642-4b1e-8399-9ee522ac0cce",
+      "name": "Buena Vista University Iowa Access Grant",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "02af5a99-fe24-4e91-b314-bec993c011dc",
+      "name": "Burger King Scholars Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3a03d9dc-02d0-4f47-ad85-f0a596a83b3b",
+      "name": "Burger King Scholars Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dd282c6a-f864-4704-a453-90515b3dfed2",
+      "name": "CA College Tuition Fee Waiver for Veteran Dependents",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b78745b9-15a2-43e1-9a9b-cf810f313c40",
+      "name": "Cameron Impact Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a9b3c75e-7fbe-4728-97b4-66df3f7a2b41",
+      "name": "Carson Scholars Fund",
+      "oldPriority": 0,
+      "newPriority": 0,
+      "tier": "Closed",
+      "reasons": [
+        "The current application cycle is closed"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ba78bd53-88b8-4cd4-b564-870d7bb404b4",
+      "name": "Cedarville University Academic Program Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "114a24a9-55bf-4e87-939c-f1a579554415",
+      "name": "Cedarville University Church Matching Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "425b29ef-bd0c-450f-bf53-0c07672aaa56",
+      "name": "Cedarville University Need-Based Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1590bb59-6bb0-4042-b59e-f3f20007c511",
+      "name": "Cedarville University President's Ministry Impact Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "4efb713e-eb6d-4065-96c7-907f63951322",
+      "name": "Cedarville University President's Scholar Award",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "4764821e-cfed-4e14-8260-93ebb8e4ed9a",
+      "name": "Center for Arab American Philanthropy Academic Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "460efd55-7955-46c7-b2d5-f86edc0eb976",
+      "name": "Christian Connector / Christian College Scholarship Drawing",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "da72ab3c-a79c-4b12-bd19-1818e907c24a",
+      "name": "Coca-Cola Scholars Program Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "970977c2-3bbe-4ba9-97f4-f45d4d53578e",
+      "name": "Coca-Cola Scholars Program Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "526d3894-baae-42d6-80c3-21ade025050b",
+      "name": "Coe College Williston Jones Full-Tuition Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f979a54b-7ae9-4264-b192-55ac92b6537d",
+      "name": "Concordia Promise",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "628d3753-4a87-4064-8520-133b00c83ef2",
+      "name": "Conservation Districts of Iowa Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a0d8798b-1eae-4efb-b108-db382f260f3d",
+      "name": "Cornell College Iowa Promise Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "cc3aa8cb-e498-4dbe-8762-38fef8ab1b4f",
+      "name": "Crimson and Cream Foundation Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d4e8de52-bef8-4831-8e95-485cf8b35c71",
+      "name": "DECA Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f2b312f9-7914-4fa2-910b-2526f0cbec8d",
+      "name": "Dell Scholars Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b0860449-d783-4fb0-8158-979bbfa68bdd",
+      "name": "Des Moines Women's Club Literature Scholarship for High School Seniors",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "28e9c718-a85b-4ad0-896d-21046b690068",
+      "name": "Des Moines Women's Club Marjorie O'Braza STEM Scholarship for High School Students",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "30873184-d6f0-4ed6-afcb-4289447bd683",
+      "name": "DMACC Foundation Prairie Trail Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "36f5dc70-179b-4407-a529-7287e21e6e80",
+      "name": "Drake University Bulldog Promise and Bright College Pathway",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Future-fit opportunity",
+        "Official source verified active",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "bc64fc37-0ae9-40c2-8dd7-a9a972095006",
+      "name": "Dunwoody High School Engagement Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dac2fb9f-b38b-4677-aead-d7440e864fbb",
+      "name": "FBLA High School Scholarships and Awards",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "207ddf0d-ac31-43a6-a610-ba6bbeacbfa2",
+      "name": "Fisher House Scholarships for Military Children",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "78b3a94e-4a28-4743-bd28-de33d7665244",
+      "name": "Fisher House Scholarships for Military Children",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "55005d26-4c6e-4d44-9a2e-410edb24ada1",
+      "name": "Fleet Reserve Association Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b4d483e0-8cc6-4842-86c4-a8dc01a82ba3",
+      "name": "Folds of Honor Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "236f4af1-c9c5-4dae-b59d-9eaf29aedddd",
+      "name": "Future Ready Iowa Last-Dollar Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1d3fde41-0e1f-4398-b651-6cffd01cfc8d",
+      "name": "GE-Reagan Foundation Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e4103f4d-991f-45cc-a978-d7b8cdf22408",
+      "name": "Genesys Works Twin Cities",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "55cbe7bb-fad6-4759-a1c8-8b0392528d97",
+      "name": "Get Ready Student Success Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "7ce00871-0b60-4d84-826d-6ce9d4f788f8",
+      "name": "Glenn F. Glezen Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "No current eligibility match recorded",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3b35c680-ed28-417f-bb66-8854e8c8a9c7",
+      "name": "Grand Lodge of Iowa Masonic Scholarship Programs",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "12e985fe-b6e5-4994-9e64-dccdd13b667f",
+      "name": "Grand View Christian School Senior Scholarship Packet / Counselor Leads",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "850af273-3af0-4ac5-b7e4-e52a2521d1b1",
+      "name": "Grand View University GV Next",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ed9f9f4d-5374-4aca-9456-963f43361213",
+      "name": "Grand View University Immigrant Iowan Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ecec7542-664a-49b6-a861-17d8eb0dba23",
+      "name": "Grand View University Scholarship Day",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "4f5232a2-d520-422c-a3e6-3149b222f208",
+      "name": "Grand View University STEM Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b9ef03a9-bae7-4f7a-b702-efeb52851fce",
+      "name": "Greater Iowa Credit Union Project Scholar",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "bc7fd63b-d418-4843-8e25-039c3fae0f0d",
+      "name": "Hagan Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dd3508ee-06b2-4ef9-80c4-b15e6c116d20",
+      "name": "Hagan Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "02ed03ab-fe39-4a7c-90d2-b633a364628f",
+      "name": "Helen Abbott Community Service Awards",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "5df54fe7-ecb6-40c3-985f-3d2849121d97",
+      "name": "Herbert Hoover Uncommon Student Award",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "995b9e48-1ad7-43d5-9287-334a21f7feb4",
+      "name": "Horatio Alger National and State Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "02c1c366-9430-48d0-80fb-87123015474a",
+      "name": "Horatio Alger National and State Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "465234d5-6724-482d-8ec1-263a3bb488b7",
+      "name": "Individual Contributions Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a8b7281c-da72-45d2-9e30-02717f2a1b36",
+      "name": "Iowa Association of School Boards Foundation High School Senior Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "bf337ca6-1b7f-4b06-bdf8-34ad9c9f8456",
+      "name": "Iowa Automobile Dealers Foundation for Education Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b37db94e-3f42-4463-a098-a4fc2c6d525d",
+      "name": "Iowa Communications Alliance Member Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ea1b4f0c-8158-41c2-b56f-f5fd89e483c5",
+      "name": "Iowa Farm Bureau Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ed826a24-f2af-48ed-b48a-6962428ae254",
+      "name": "Iowa Financial Know-How Challenge / ISL Senior Scholarship Watch",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d81f4607-d6aa-4521-afb0-bd1ea3c61056",
+      "name": "Iowa RYLA Leadership Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "9abb51a0-5ae1-4b3d-bbfd-d9617ec66536",
+      "name": "Iowa Scholarship for the Arts",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f787f82b-5e89-4ae1-9b9a-28163e597787",
+      "name": "Iowa State University National Scholars Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "013782e5-b7b8-4283-9128-6d5b5284f784",
+      "name": "Iowa Tuition Grant",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "cde5ada7-df0e-46c5-bfd1-3caa2e9a48a1",
+      "name": "Iowa United Methodist Foundation High School Senior Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d0083b74-0fb8-4d2b-82fe-f81499b133fa",
+      "name": "Iowa Vocational-Technical Tuition Grant",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e02f870f-53d7-49e1-a5bb-c2d233d24bf9",
+      "name": "Iowa Workforce Development Grants and Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "8cf92ee2-1169-476b-a3b8-398e1326231d",
+      "name": "ISL Education Lending Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dc53a209-8d48-4a01-ad4d-e58b803e3232",
+      "name": "Jack Kent Cooke Foundation College Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "abe9c885-3768-47bb-96bb-9419725cd4c0",
+      "name": "Jack Kent Cooke Foundation College Scholarship Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c6f4b8cb-4b2a-4328-bafe-a3caf682e1eb",
+      "name": "Joseph R. Baranski Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "No current eligibility match recorded",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "029fb6b6-d227-4668-8c46-600003e169b6",
+      "name": "Keep Iowa Beautiful Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d30c3e77-46f8-47c2-9ea5-eb3a887200ef",
+      "name": "Kiwanis Children's Fund Scholarships / Key Club Pathway",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "93f429e3-18b4-4a44-9cb7-32c2540450d6",
+      "name": "Lake Harriet Lodge Foundation Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a287058c-2f33-48a4-88b2-fd2944018c3f",
+      "name": "Landus Excellence in Agriculture Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "6a9237b0-9168-4b8d-8890-724f169ea41a",
+      "name": "Latino Economic Development Center Fondo de Becas para Latinos",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "8dcf5a29-4c01-4ffe-8c7f-6bcf8f4ea71a",
+      "name": "Let Grow Think for Yourself Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "52c5ef3c-e3d7-4100-b429-8f0e11e2eb90",
+      "name": "Loras Promise",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b02352f2-56cd-462c-9968-cca7aed95d2b",
+      "name": "Luther College Impact Awards and Imagine Fellowship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d85c2e5f-6de0-41c0-b2a9-c4a08882a289",
+      "name": "Macalester Tuition Promise",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3a130cf2-a27d-4aee-aa6c-4371465b0f7b",
+      "name": "MacPhail Financial Aid & Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "619e087c-2d6e-427b-b001-d59fde6e7126",
+      "name": "MacPhail Instrument Lessons Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1d2edb17-b408-448e-88bd-6c611a3c0ef1",
+      "name": "MacPhail Varsity Ensembles",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c762d70f-6760-4b5a-98fd-68bc7b2083ea",
+      "name": "Marshalltown Area Soccer Club Scholarship Fund",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f6419bc7-dfbb-4c8c-976b-4e4f62259fa1",
+      "name": "MCNF Guardians of Sovereignty (Female) scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a785c9ba-a31d-4d27-8e65-fcd9c431851c",
+      "name": "MCNF Guardians of Sovereignty (male) scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d0db252f-d0e7-451a-ac69-640109140521",
+      "name": "Mercer Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "138b775d-2ff9-462b-a0f5-17931b1e3330",
+      "name": "Minneapolis College Foundation Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e9b8e8cd-3ba5-4e75-9260-a5fdb305e905",
+      "name": "Minneapolis-St. Paul Links Incorporated Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "88327a83-b370-4b42-a394-184f51d3fe7d",
+      "name": "Minnesota Academic Excellence Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1b56c35f-ee5a-4b94-b3c9-a03fc19e36b5",
+      "name": "Minnesota AFL-CIO Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1dad1ab7-f98c-43f4-80b2-77cda32600cb",
+      "name": "Minnesota Association of Townships Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c0450f8e-f202-4ee2-a2b6-21dfbb32908e",
+      "name": "Minnesota Child Care Grant",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "68e001af-4a93-4094-9928-31bd1d75bd1d",
+      "name": "Minnesota Construction Association Tech/Trade Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "26a1a768-0731-4991-82c9-8373a33d9157",
+      "name": "Minnesota Fostering Independence Higher Education Grant",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ba0b8afe-8efe-4352-9bb3-e491f4edcbf7",
+      "name": "Minnesota Grocers Association Foundation Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "0a90f77a-2ce1-4af6-b3de-1d22b128dfd8",
+      "name": "Minnesota Indian Scholarship Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d6b24424-4d6f-4882-9250-70569da9ce0c",
+      "name": "Minnesota Masonic Charities Heritage Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c24688a0-2185-411e-a7f4-6b9713e3d72c",
+      "name": "Minnesota Masonic Charities Selfless Scholar Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "2f037643-f432-4b67-a103-554767c456b7",
+      "name": "Minnesota Masonic Charities Signature Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b02278c6-14e3-4120-8758-4fd81402e5f3",
+      "name": "Minnesota Paramedic Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "8b96b160-ad90-40e6-886c-3b1e26376b0c",
+      "name": "Minnesota State Grant",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "769056fb-0667-4782-af22-1df8903ab8f2",
+      "name": "MMEA All-State Camp Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1ba28be8-4326-403e-bd6a-25885dd5ef42",
+      "name": "MNIAAA Student Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "8c64c994-fc77-4ae0-8b16-7aa77212e30a",
+      "name": "MSBA Student School Board Member Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ae678124-089f-42c9-8dd7-1f4e201ea931",
+      "name": "Muslim Youth Leadership Awards",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "5e6fa609-6319-4b93-8160-0f944b6ff933",
+      "name": "MY Credit Union Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c95b6460-011e-494e-87b7-8050f800ed89",
+      "name": "National Security Language Initiative for Youth (NSLI-Y) - Mandarin",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "77353d87-c40a-4be7-9163-b292386dde4c",
+      "name": "NAVAL HELICOPTER ASSOCIATION SCHOLARSHIP FUND (NHASF)",
+      "oldPriority": 0,
+      "newPriority": 0,
+      "tier": "Closed",
+      "reasons": [
+        "The current application cycle is closed"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1d83f575-686a-4e05-b531-b4a7d2f4e1bb",
+      "name": "Niche $2,000 No Essay Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ad0c4237-3a54-4d2d-a920-1dc293d5d7fc",
+      "name": "Non-Traditional Student Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3f0b9c73-2c61-44c4-9979-c66ffd3c6fb9",
+      "name": "North Dakota Military Scholarship Fund",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "91dc2910-8522-48ed-9045-a3c84b02bdfa",
+      "name": "North Star Promise",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "65592100-2056-45c3-a76c-addd12698c6f",
+      "name": "NU Veterans, Spouses, and Dependents Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "12fb02e9-ab52-40ba-b3a9-66085416ed06",
+      "name": "Omicron Boulé Woodson Mitchell Fountain Scholarship Fund",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "20c34996-c0c5-461a-a46b-b5a4ee7f8cb8",
+      "name": "Optimist International Essay Contest",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "34a43e6a-3753-493c-96bd-5ca91b66873b",
+      "name": "Optimist International Oratorical Contest",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "2ef01eee-75f6-4676-a8ec-5d01e45de28b",
+      "name": "Page Education Foundation Page Grant",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "b5781a41-632f-40a8-916e-e33ffc77eaf9",
+      "name": "Piper Promise",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "cfdcba47-0dae-4b7d-8744-0b55f8f6a263",
+      "name": "Polk County Conservation Youth Corps / AmeriCorps",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1f924099-eba4-411a-a50a-b9b11e6fc624",
+      "name": "Prairie Meadows High School Scholarship Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f9b8c5d0-267b-42ac-b5c1-621e04217fa0",
+      "name": "Professional Educators of Iowa Student Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "cff5f8c6-d3ad-45dd-bd7e-6bfef8699ed8",
+      "name": "Professional Educators of Iowa Teacher of Tomorrow Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "127b2f0b-d24a-4673-8c59-a5fd24e17f46",
+      "name": "Prudential Emerging Visionaries",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "80d5018a-f153-478c-b8c2-145af2fdf2a2",
+      "name": "Puckett Scholars Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1a1b4074-2c20-4034-b8b9-4e9e6f1f035c",
+      "name": "QuestBridge National College Match",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "f00a4812-78a6-4d7b-962a-d7ef3e91b904",
+      "name": "Raise.me Micro-Scholarships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "dd52f9ba-6061-44ea-a9ca-0f94713dc80b",
+      "name": "Regions Riding Forward Scholarship Contest",
+      "oldPriority": 5,
+      "newPriority": 5,
+      "tier": "Act now",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active",
+        "51 days until deadline"
+      ],
+      "changed": false
+    },
+    {
+      "id": "02e1ba5d-a53c-46c3-9746-80b84f073925",
+      "name": "Results Foundation Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d74a287a-1a2c-4f37-a305-165727807b88",
+      "name": "Richard L. Wendorf Veteran Assistance Fund",
+      "oldPriority": 1,
+      "newPriority": 1,
+      "tier": "Low match",
+      "reasons": [
+        "No current eligibility match recorded"
+      ],
+      "changed": false
+    },
+    {
+      "id": "35bf4dc1-4f76-4c35-9737-4b0b201eec9e",
+      "name": "Robert D. Blue Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "7014a145-4d66-4716-8696-353ddc5e51c3",
+      "name": "Robert W. Nolan Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "No current eligibility match recorded",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "671dcd76-b80d-4b7c-ab39-fc51e257fa7d",
+      "name": "Robert. M. Treadwell Annual Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "8a13a007-e289-4f71-b76c-6ec860c3c178",
+      "name": "RRFC Military and Family Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "4bbf38a6-45f7-4879-9080-1c9e55f3f250",
+      "name": "Samsung American Legion Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d4aa4673-0e92-4b37-a30f-162ee258fc0a",
+      "name": "Sarah A. Bonnifield Vietnam Veterans Scholarship Fund -",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3ebdc5c2-f96a-4ce8-9bf9-a292a2f52cdc",
+      "name": "SFM Foundation Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Future-fit opportunity",
+        "Official source verified active",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "46b98721-2596-4dc6-9cd1-7cf579f2f161",
+      "name": "Simpson College All-in for Iowa",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "aedb0b2b-15b4-4a5e-97ea-d94f15c6c8fc",
+      "name": "Step Up Minneapolis Paid Internships",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "616033e9-d428-4feb-9fa9-7283cd2830da",
+      "name": "Student Referee Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1f33506e-2c55-49fb-9bc5-ec265c876cea",
+      "name": "Taco Bell Foundation Live Más Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "2ade63ff-ce91-463a-86ce-998895b39654",
+      "name": "Taco Bell Foundation Live Más Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e774a629-162c-4191-9762-4b9b37fdc926",
+      "name": "The Donald Bruce Pringle Family Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "3e536f3d-6587-48f2-bdd3-5350ffb2d46d",
+      "name": "The Gates Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "5f262095-f7ea-40ba-bb91-875f8f60c700",
+      "name": "Tom and Karen Snee Scholarship",
+      "oldPriority": 4,
+      "newPriority": 4,
+      "tier": "Strong target",
+      "reasons": [
+        "Eligible now",
+        "Official source verified active"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a2fd88b8-6919-4287-b257-a6e1b6e2ad7b",
+      "name": "Too Cool to Pay for School Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "d14b9663-e02d-4733-a5e2-0871568815fc",
+      "name": "TROY Military and Family Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "ae98e811-745b-4bb6-8bf1-e36a322afd69",
+      "name": "TruStone Financial Foundation MSHSL Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c7b5bceb-c65b-4c71-9d7b-fb2b3796cffd",
+      "name": "United In Service Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "da6f1d46-4cfe-4982-90de-ef2216854f12",
+      "name": "University of Minnesota Alumni Association Freshman Leadership Incentive Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "e8cc6ec3-51f5-4759-8de7-1abe9dd366dd",
+      "name": "University of Minnesota Chinese Flagship Funding",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "5758a82a-bbd2-4a7a-bbad-1deca94d2017",
+      "name": "University of Minnesota CSE Rooted in STEM / 3M Scholarship Pathway",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "a8427189-ec07-4ebe-b7e1-eab8dfe6da62",
+      "name": "University of Minnesota Presidential Scholarship",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "241f1e00-05f4-4269-a949-3a50b7d73b80",
+      "name": "University of Minnesota Promise Plus Free Tuition Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "1b31a047-d49c-4d8d-a1e8-f676efe9fc65",
+      "name": "University of Northern Iowa Scholarships",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "660a0cf7-4b99-4a3e-9322-97b617a25757",
+      "name": "VETERANS & MILITARY FAMILY SCHOLARSHIP",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now"
+      ],
+      "changed": false
+    },
+    {
+      "id": "c01d6ca8-813e-48bd-9e30-e93f66840c6e",
+      "name": "VFW Voice of Democracy Audio-Essay Contest",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Eligible now",
+        "Major award value",
+        "Capped until source verification is complete"
+      ],
+      "changed": false
+    },
+    {
+      "id": "39419284-dbe6-49b0-bc8d-c7714d380995",
+      "name": "VFW Voice of Democracy Audio-Essay Contest - Minnesota",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "7dcbef77-0ebc-4d7c-aa73-8fd695633a05",
+      "name": "Village Scholars",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "155f9dbe-01da-4fad-9086-1c501e2992f4",
+      "name": "Wallin Education Partners 2-Year Program",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    },
+    {
+      "id": "56bd2355-2ce7-45e7-a297-e0c61bbff4e9",
+      "name": "Wallin Education Partners 4-Year Program",
+      "oldPriority": 3,
+      "newPriority": 3,
+      "tier": "Research",
+      "reasons": [
+        "Future-fit opportunity",
+        "Major award value"
+      ],
+      "changed": false
+    },
+    {
+      "id": "575cec4b-644c-4810-b03b-578c79b353ae",
+      "name": "Winning Pathways Education Scholarship",
+      "oldPriority": 2,
+      "newPriority": 2,
+      "tier": "Prepare later",
+      "reasons": [
+        "Future-fit opportunity"
+      ],
+      "changed": false
+    }
+  ]
+}
