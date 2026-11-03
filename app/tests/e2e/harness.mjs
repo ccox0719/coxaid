@@ -33,6 +33,7 @@ export function seed() {
 const EMBED = { student: "students", scholarship: "scholarships", school: "schools", family: "families", workspace: "application_workspaces", answer: "answer_bank" };
 
 export async function startApp({ role = "parent", userId = "u1", studentId = null, db = seed(), failTable = null } = {}) {
+  if (role === "none") { db.family_members = []; db.families = []; db.students = []; db.scholarships = []; }
   if (role === "student") db.family_members = [{ id: "m2", family_id: "fam1", user_id: userId, role: "student", student_id: studentId, created_at: "2026-01-01", family: db.families[0] }];
   const log = { requests: [], errors: [], consoleErrors: [] };
   const server = http.createServer((req, res) => {
@@ -97,6 +98,15 @@ export async function startApp({ role = "parent", userId = "u1", studentId = nul
           if (!db.tasks.some((x) => x.student_id === t.student_id && x.scholarship_id === t.scholarship_id && x.title === title)) { db.tasks.push({ id: uuid(), family_id: t.family_id, student_id: t.student_id, scholarship_id: t.scholarship_id, title, due_date: null, completed: false, required: true }); inserted++; }
         }
         return route.fulfill({ status: 200, headers, body: JSON.stringify([{ inserted_count: inserted, message: inserted ? "Application tasks created." : "Tasks already created for this application." }]) });
+      }
+      if (target === "rpc/create_family_with_student") {
+        const b = JSON.parse(req.postData() || "{}");
+        if (db.family_members.some((x) => x.user_id === userId)) return route.fulfill({ status: 400, headers, body: JSON.stringify({ message: "This account already belongs to a family." }) });
+        const f = { id: "famNew", name: b.family_name, created_at: new Date().toISOString() };
+        db.families.push(f);
+        db.family_members.push({ id: "mNew", family_id: f.id, user_id: userId, role: "family_admin", student_id: null, created_at: new Date().toISOString(), family: f });
+        db.students.push({ id: "sNew", family_id: f.id, name: b.student_name, grade_level: b.student_grade, activities: [], awards: [], career_interests: [] });
+        return route.fulfill({ status: 200, headers, body: JSON.stringify(f.id) });
       }
       return route.fulfill({ status: 200, headers, body: "[]" });
     }

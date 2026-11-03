@@ -1508,6 +1508,21 @@ function App() {
     }
   }
 
+  async function createFamily({ family_name, student_name, student_grade }) {
+    const { error } = await supabase.rpc("create_family_with_student", {
+      family_name,
+      student_name,
+      student_grade: student_grade || null,
+    });
+    if (error) {
+      setMessage(formatSupabaseError(error));
+      return;
+    }
+    setMessage("");
+    dataLoadedRef.current = false;
+    await loadData();
+  }
+
   function goTo(page) {
     setActiveNav(page);
     setSidebarOpen(false);
@@ -2334,7 +2349,7 @@ function App() {
   if (!isSupabaseConfigured) return <SetupMissing />;
   if (loading) return <Shell><LoadingState label="Loading workspace" description="One moment while we sync your data." /></Shell>;
   if (!session) return <AuthScreen form={authForm} setForm={setAuthForm} mode={authMode} setMode={setAuthMode} invite={pendingInvite} onSubmit={signIn} message={message} />;
-  if (!activeFamilyId) return <NoFamilyAccess message={message} onReload={loadData} onSwitchAccount={signOut} />;
+  if (!activeFamilyId) return <NoFamilyAccess message={message} onReload={loadData} onSwitchAccount={signOut} onCreateFamily={createFamily} />;
 
   return (
     <Shell>
@@ -4827,13 +4842,42 @@ function projectIdeaStatusTone(status) {
   }[status] || "neutral";
 }
 
-function NoFamilyAccess({ message, onReload, onSwitchAccount }) {
+function NoFamilyAccess({ message, onReload, onSwitchAccount, onCreateFamily }) {
+  const [form, setForm] = useState({ family_name: "", student_name: "", student_grade: "" });
+  const [saving, setSaving] = useState(false);
+
+  async function submit(event) {
+    event.preventDefault();
+    setSaving(true);
+    await onCreateFamily(form);
+    setSaving(false);
+  }
+
   return (
     <Shell>
       <main className="empty">
-        <h1>No family access</h1>
-        <p>This login is not linked to any family membership yet.</p>
-        {message && <p>{message}</p>}
+        <h1>Set up your family</h1>
+        <p>Create a private workspace for your student. Only people you invite can see it.</p>
+        {message && <p role="status">{message}</p>}
+        <form className="onboardingForm" onSubmit={submit}>
+          <label className="selectLabel">
+            <span>Family name</span>
+            <input value={form.family_name} maxLength={80} required placeholder="The Smith Family" onChange={(event) => setForm({ ...form, family_name: event.target.value })} />
+          </label>
+          <label className="selectLabel">
+            <span>First student's name</span>
+            <input value={form.student_name} maxLength={80} required placeholder="Student name" onChange={(event) => setForm({ ...form, student_name: event.target.value })} />
+          </label>
+          <label className="selectLabel">
+            <span>Grade (optional)</span>
+            <select value={form.student_grade} onChange={(event) => setForm({ ...form, student_grade: event.target.value })}>
+              <option value="">Not sure yet</option>
+              {GRADE_LEVEL_OPTIONS.map((grade) => <option key={grade} value={grade}>{grade}</option>)}
+            </select>
+          </label>
+          <button className="primary" type="submit" disabled={saving}>{saving ? "Creating..." : "Create my family"}</button>
+        </form>
+        <p className="inlineHint">Were you invited to an existing family? Open the invite link from your email while signed in with the invited address.</p>
         <div className="actions">
           <button onClick={onReload}>Reload</button>
           <button className="ghost" onClick={onSwitchAccount}>Switch account</button>
