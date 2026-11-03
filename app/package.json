@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0",
     "import:scholarships": "node scripts/import-scholarships.mjs",
+    "discover:scholarships": "node scripts/discover-scholarships.mjs",
     "test": "node tests/applicationStatus.test.mjs"
   },
   "dependencies": {

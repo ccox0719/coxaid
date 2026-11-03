@@ -103,6 +103,34 @@ Scholarship import expects:
 name,link,award,deadline,status,source_file,last_verified_at,eligibility_reason,age_min,age_max,grade_requirement,eligible_now,eligible_soon,priority_score,notes
 ```
 
+Example:
+
+```csv
+name,link,award,deadline,status,source_file,last_verified_at,eligibility_reason,age_min,age_max,grade_requirement,eligible_now,eligible_soon,priority_score,notes
+Example Community Scholarship,https://example.org/scholarships/community,"$1,000",2027-03-15,Open,community-scholarships.csv,2026-11-03,"Iowa high school seniors with community-service experience may qualify.",17,19,"High school senior",true,false,4,"Confirm the current application requirements on the official page."
+```
+
+## Automated scholarship discovery
+
+The weekly discovery job searches official scholarship, school, government, and foundation pages with OpenAI web search. It validates links, future deadlines, and duplicates before adding up to 25 new rows with the `Auto-discovered` status. It never updates existing scholarships.
+
+Add an `OPENAI_API_KEY` to `.env.local` (or the scheduler environment). It is server-only; never use a `VITE_` prefix or commit the key. An optional `SCHOLARSHIP_DISCOVERY_MODEL` environment variable selects the Responses API model; it defaults to `gpt-5-mini`.
+
+Preview without database writes: `npm run discover:scholarships -- --dry-run`. Run `npm run discover:scholarships` after review.
+
+### macOS launchd schedule
+
+`scripts/com.scholarship.discover.plist` runs Mondays at 7:00 AM from this repository and appends output to `~/Library/Logs/scholarship-discover.log`. Update its absolute repository and user paths if they differ, then install it:
+
+```bash
+mkdir -p ~/Library/Logs
+cp scripts/com.scholarship.discover.plist ~/Library/LaunchAgents/
+launchctl bootout gui/$(id -u) ~/Library/LaunchAgents/com.scholarship.discover.plist 2>/dev/null || true
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/com.scholarship.discover.plist
+```
+
+For GitHub Actions, use a weekly cron and keep `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY`, and `OPENAI_API_KEY` exclusively in repository secrets, exposed only as step environment variables.
+
 ## Main Tables
 
 - `profiles`: Auth-linked users and role.
