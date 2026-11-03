@@ -2633,6 +2633,11 @@ function App() {
                 <p>Signed in as {session.user.email}{activeMembership?.role ? ` · ${activeMembership.role.replace("_", " ")}` : ""}</p>
                 <button type="button" onClick={signOut}>Sign out</button>
               </section>
+              <section className="homeSection supportPanel" aria-labelledby="support-heading">
+                <h3 id="support-heading">Find this useful?</h3>
+                <p>This app is free. If it helps your family, you're welcome to buy the developer a coffee. It's entirely optional.</p>
+                <a className="buttonLike" href="https://venmo.com/u/Chris-Cox-278" target="_blank" rel="noreferrer noopener">Buy me a coffee on Venmo</a>
+              </section>
             <FamilySettingsPage
               family={activeFamily}
               students={students}
