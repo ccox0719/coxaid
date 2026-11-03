@@ -108,3 +108,24 @@ const settle = (p) => p.waitForTimeout(600);
 }
 for (const r of results) console.log(r.join(" | "));
 console.log(`${results.filter((r) => r[0] === "PASS").length}/${results.length} passed`);
+
+// --- onboarding (new account with no family)
+{
+  const { startApp: start } = await import("./harness.mjs");
+  const app = await start({ role: "none", userId: "u9" });
+  const { page, db, log } = app; await page.waitForTimeout(800);
+  const r2 = [];
+  const st = async (n, fn) => { try { await fn(); r2.push(["PASS", n]); } catch (e) { r2.push(["FAIL", n, String(e.message).split("\n")[0]]); } };
+  await st("onboarding: new account sees Set up your family", async () => assert.match(await page.locator("body").innerText(), /Set up your family/));
+  await st("onboarding: create family lands in workspace with the student", async () => {
+    await page.getByPlaceholder("The Smith Family").fill("Lee Family");
+    await page.getByPlaceholder("Student name").fill("Mia");
+    await page.getByRole("button", { name: "Create my family" }).click(); await page.waitForTimeout(900);
+    assert.equal(db.families.length, 1);
+    const t = await page.locator("body").innerText();
+    assert.match(t, /Mia/); assert.match(t, /Home/);
+  });
+  await st("onboarding: no page errors", async () => assert.deepEqual(log.errors, []));
+  for (const r of r2) console.log(r.join(" | "));
+  await app.close();
+}
