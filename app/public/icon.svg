@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Scholarship workspace app icon</title>
+  <desc id="desc">A glass scholarship dashboard tile with a graduation cap, document, check mark, and warm academic accent.</desc>
+  <defs>
+    <linearGradient id="sky" x1="64" y1="24" x2="448" y2="488" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dff6ff"/>
+      <stop offset="0.42" stop-color="#8bd8ff"/>
+      <stop offset="1" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="140" y1="92" x2="390" y2="414" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.86"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.38"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="156" y1="352" x2="356" y2="352" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f8d66d"/>
+      <stop offset="1" stop-color="#f4a51c"/>
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="22" stdDeviation="22" flood-color="#0b3349" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#sky)"/>
+  <circle cx="102" cy="94" r="92" fill="#ffffff" opacity="0.38"/>
+  <circle cx="428" cy="108" r="124" fill="#ffffff" opacity="0.22"/>
+  <circle cx="406" cy="414" r="128" fill="#f8d66d" opacity="0.24"/>
+
+  <g filter="url(#shadow)">
+    <rect x="112" y="96" width="288" height="320" rx="56" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.78" stroke-width="8"/>
+    <path d="M164 162h184" stroke="#ffffff" stroke-opacity="0.75" stroke-width="10" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#0b3349">
+    <path d="M256 142 142 202l114 60 114-60-114-60Z"/>
+    <path d="M190 238v54c0 28 30 50 66 50s66-22 66-50v-54l-66 35-66-35Z"/>
+  </g>
+  <path d="M370 202v67" stroke="#0b3349" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="370" cy="286" r="15" fill="#f8c24a"/>
+
+  <rect x="158" y="326" width="196" height="70" rx="26" fill="url(#gold)" stroke="#ffffff" stroke-opacity="0.72" stroke-width="6"/>
+  <path d="m218 361 29 28 54-61" fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
